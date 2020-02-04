@@ -12,6 +12,6 @@
         android:layout_height="match_parent"
         android:id="@+id/my_recycler_view"
         android:scrollbars="vertical"
-        android:background="#FFFF00FF"
+        android:background="#FF333333"
         />
 </androidx.constraintlayout.widget.ConstraintLayout>
