@@ -18,13 +18,20 @@ public class PokemonScroller extends RecyclerView {
         this.context = context;
     }
 
+    public PokemonScroller(Context context, AttributeSet attrs) {
+        super(context, attrs);
+    }
+
+    public PokemonScroller(Context context, AttributeSet attrs, int defStyle) {
+        super(context, attrs, defStyle);
+    }
+
 
     @Override
     public boolean fling(int velocityX, int velocityY) {
 
         velocityX *= 0.5;
         return super.fling(velocityX, velocityY);
-    }
-    
 
+    }
 }
