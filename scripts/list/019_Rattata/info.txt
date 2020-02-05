@@ -1,0 +1,8 @@
+number:19
+name:Rattata
+type_primary:Normal
+type_secondary:
+Height:1' 0"
+Weight:8.0 lbs.
+Evolution:Raticate (Level 20)
+Pokedex:Bites anything when it attacks. Small and very quick, it is a common sight in many places.

@@ -1,0 +1,8 @@
+number:128
+name:Tauros
+type_primary:Normal
+type_secondary:
+Height:4' 7"
+Weight:195.0 lbs.
+Evolution:N/A
+Pokedex:When it targets an enemy, it charges furiously while whipping its body with its long tails.

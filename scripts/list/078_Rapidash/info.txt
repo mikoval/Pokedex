@@ -1,0 +1,8 @@
+number:78
+name:Rapidash
+type_primary:Fire
+type_secondary:
+Height:5' 7"
+Weight:209.0 lbs.
+Evolution:N/A
+Pokedex:Very competitive, this Pokemon will chase anything that moves fast in the hopes of racing it.

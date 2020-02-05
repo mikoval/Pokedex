@@ -1,0 +1,8 @@
+number:87
+name:Dewgong
+type_primary:Water
+type_secondary:Ice
+Height:5' 7"
+Weight:265.0 lbs.
+Evolution:N/A
+Pokedex:Stores thermal energy in its body. Swims at a steady 8 knots even in intensely cold waters.

@@ -1,0 +1,8 @@
+number:3
+name:Venusaur
+type_primary:Grass
+type_secondary:Poison
+Height:6' 7"
+Weight:221.0 lbs.
+Evolution:N/A
+Pokedex:The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.

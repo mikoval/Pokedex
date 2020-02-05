@@ -1,0 +1,8 @@
+number:96
+name:Drowzee
+type_primary:Psychic
+type_secondary:
+Height:3' 3"
+Weight:71.0 lbs.
+Evolution:Hypno (Level 26)
+Pokedex:Puts enemies to sleep then eats their dreams. Occasionally gets sick from eating bad dreams.

@@ -1,0 +1,8 @@
+number:94
+name:Gengar
+type_primary:Ghost
+type_secondary:Poison
+Height:4' 11"
+Weight:89.0 lbs.
+Evolution:N/A
+Pokedex:Under a full moon, this Pokemon likes to mimic the shadows of people and laugh at their fright.

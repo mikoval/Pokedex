@@ -1,0 +1,8 @@
+number:103
+name:Exeggutor
+type_primary:Grass
+type_secondary:Psychic
+Height:6' 7"
+Weight:265.0 lbs.
+Evolution:N/A
+Pokedex:Legend has it that on rare occasions, one of its heads will drop off and continue on as an Exeggcute.

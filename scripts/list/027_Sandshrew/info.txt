@@ -1,0 +1,8 @@
+number:27
+name:Sandshrew
+type_primary:Ground
+type_secondary:
+Height:2' 0"
+Weight:26.0 lbs.
+Evolution:Sandslash (Level 22)
+Pokedex:Burrows deep underground in arid locations far from water. It only emerges to hunt for food.

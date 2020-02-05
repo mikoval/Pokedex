@@ -1,0 +1,8 @@
+number:18
+name:Pidgeot
+type_primary:Normal
+type_secondary:Flying
+Height:4' 11"
+Weight:87.0 lbs.
+Evolution:N/A
+Pokedex:When hunting, it skims the surface of water at high speed to pick off unwary prey such as Magikarp.

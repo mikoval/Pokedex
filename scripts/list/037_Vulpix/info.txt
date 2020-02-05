@@ -1,0 +1,8 @@
+number:37
+name:Vulpix
+type_primary:Fire
+type_secondary:
+Height:2' 0"
+Weight:22.0 lbs.
+Evolution:Ninetales (use Fire Stone)
+Pokedex:At the time of its birth, it has just one tail. The tail splits from its tip as it grows older.

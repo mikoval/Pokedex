@@ -1,0 +1,8 @@
+number:147
+name:Dratini
+type_primary:Dragon
+type_secondary:
+Height:5' 11"
+Weight:7.0 lbs.
+Evolution:Dragonair (Level 30)
+Pokedex:Long considered a mythical Pokemon until recently when a small colony was found living underwater.

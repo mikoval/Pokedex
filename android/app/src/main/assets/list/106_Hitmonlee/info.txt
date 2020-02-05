@@ -1,0 +1,8 @@
+number:106
+name:Hitmonlee
+type_primary:Fighting
+type_secondary:
+Height:4' 11"
+Weight:110.0 lbs.
+Evolution:N/A
+Pokedex:When in a hurry, its legs lengthen progressively. It runs smoothly with extra long, loping strides.

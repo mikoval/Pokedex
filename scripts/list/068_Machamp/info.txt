@@ -1,0 +1,8 @@
+number:68
+name:Machamp
+type_primary:Fighting
+type_secondary:
+Height:5' 3"
+Weight:287.0 lbs.
+Evolution:N/A
+Pokedex:Using its heavy muscles, it throws powerful punches that can send the victim clear over the horizon.

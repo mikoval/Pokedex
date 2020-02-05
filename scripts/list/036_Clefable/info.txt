@@ -1,0 +1,8 @@
+number:36
+name:Clefable
+type_primary:Normal
+type_secondary:
+Height:4' 3"
+Weight:88.0 lbs.
+Evolution:N/A
+Pokedex:A timid fairy Pokemon that is rarely seen. It will run and hide the moment it senses people.

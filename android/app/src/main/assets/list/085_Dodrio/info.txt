@@ -1,0 +1,8 @@
+number:85
+name:Dodrio
+type_primary:Normal
+type_secondary:Flying
+Height:5' 11"
+Weight:188.0 lbs.
+Evolution:N/A
+Pokedex:Uses its three brains to execute complex plans. While two heads sleep, one head stays awake.

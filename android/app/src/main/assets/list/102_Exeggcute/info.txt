@@ -1,0 +1,8 @@
+number:102
+name:Exeggcute
+type_primary:Grass
+type_secondary:Psychic
+Height:1' 4"
+Weight:6.0 lbs.
+Evolution:Exeggutor (use Leaf Stone)
+Pokedex:Often mistaken for eggs. When disturbed, they quickly gather and attack in swarms.

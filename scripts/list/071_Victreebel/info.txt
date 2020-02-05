@@ -1,0 +1,8 @@
+number:71
+name:Victreebel
+type_primary:Grass
+type_secondary:Poison
+Height:5' 7"
+Weight:34.0 lbs.
+Evolution:N/A
+Pokedex:Said to live in huge colonies deep in jungles, although no one has ever returned from there.

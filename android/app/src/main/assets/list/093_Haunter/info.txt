@@ -1,0 +1,8 @@
+number:93
+name:Haunter
+type_primary:Ghost
+type_secondary:Poison
+Height:5' 3"
+Weight:0.2 lbs.
+Evolution:Gengar (must be traded to evolve)
+Pokedex:Because of its ability to slip through block walls, it is said to be from another dimension.

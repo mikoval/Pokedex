@@ -1,0 +1,8 @@
+number:58
+name:Growlithe
+type_primary:Fire
+type_secondary:
+Height:2' 4"
+Weight:42.0 lbs.
+Evolution:Arcanine (use Fire Stone)
+Pokedex:Very protective of its territory. It will bark and bite to repel intruders from its space.

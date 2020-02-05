@@ -1,0 +1,8 @@
+number:88
+name:Grimer
+type_primary:Poison
+type_secondary:
+Height:2' 11"
+Weight:66.0 lbs.
+Evolution:Grimer (Level 38)
+Pokedex:Appears in filthy areas, Thrives by sucking up polluted sludge that is pumped out of factories.

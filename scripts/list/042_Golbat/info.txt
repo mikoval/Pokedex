@@ -1,0 +1,8 @@
+number:42
+name:Golbat
+type_primary:Poison
+type_secondary:Flying
+Height:5' 3"
+Weight:121.0 lbs.
+Evolution:N/A
+Pokedex:Once it strikes, it will not stop draining energy from the victim even if it gets too heavy to fly.

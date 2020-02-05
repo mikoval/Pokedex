@@ -1,0 +1,8 @@
+number:117
+name:Seadra
+type_primary:Water
+type_secondary:
+Height:3' 11"
+Weight:55.0 lbs.
+Evolution:N/A
+Pokedex:Capable of swimming backwards by rapidly flapping its wing- like pectoral fins and stout tail.

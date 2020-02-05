@@ -1,0 +1,8 @@
+number:77
+name:Ponyta
+type_primary:Fire
+type_secondary:
+Height:3' 3"
+Weight:66.0 lbs.
+Evolution:Rapidash (Level 40)
+Pokedex:Its hooves are 10 times harder than diamonds. It can trample anything completely flat in little time.

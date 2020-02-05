@@ -1,0 +1,8 @@
+number:2
+name:Ivysaur
+type_primary:Grass
+type_secondary:Poison
+Height:3' 3"
+Weight:29.0 lbs.
+Evolution:Venusaur (Level 32)
+Pokedex:When the bulb on its back grows large, it appears to lose the speed to stand on its hind legs.

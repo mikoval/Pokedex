@@ -1,0 +1,8 @@
+number:32
+name:Nidoran
+type_primary:
+type_secondary:
+Height:1' 8"
+Weight:20.0 lbs.
+Evolution:Nidorino (Level 16)
+Pokedex:Stiffens its ears to sense danger. The larger its horns, the more powerful its secreted venom.

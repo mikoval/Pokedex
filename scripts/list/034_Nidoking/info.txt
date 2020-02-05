@@ -1,0 +1,8 @@
+number:34
+name:Nidoking
+type_primary:Poison
+type_secondary:Ground
+Height:4' 7"
+Weight:137.0 lbs.
+Evolution:N/A
+Pokedex:It uses its powerful tail in battle to smash, constrict, then break the prey's bones.

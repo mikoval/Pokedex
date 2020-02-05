@@ -1,0 +1,8 @@
+number:38
+name:Ninetales
+type_primary:Fire
+type_secondary:
+Height:3' 7"
+Weight:44.0 lbs.
+Evolution:N/A
+Pokedex:Very smart and very vengeful. Grabbing one of its many tails could result in a 1000-year curse.

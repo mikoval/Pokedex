@@ -1,0 +1,8 @@
+number:56
+name:Mankey
+type_primary:Fighting
+type_secondary:
+Height:1' 8"
+Weight:62.0 lbs.
+Evolution:Primeape (Level 28)
+Pokedex:Extremely quick to anger. It could be docile one moment then thrashing away the next instant.

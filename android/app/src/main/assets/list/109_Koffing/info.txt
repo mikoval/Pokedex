@@ -1,0 +1,8 @@
+number:109
+name:Koffing
+type_primary:Poison
+type_secondary:
+Height:2' 0"
+Weight:2.0 lbs.
+Evolution:Weezing (Level 35)
+Pokedex:Because it stores several kinds of toxic gases in it body, it is prone to explode without warning.

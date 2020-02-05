@@ -1,0 +1,8 @@
+number:57
+name:Primeape
+type_primary:Fighting
+type_secondary:
+Height:3' 3"
+Weight:71.0 lbs.
+Evolution:N/A
+Pokedex:Always furious and tenacious to boot. It will not abandon chasing its quarry until it is caught.

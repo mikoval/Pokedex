@@ -1,0 +1,8 @@
+number:104
+name:Cubone
+type_primary:Ground
+type_secondary:
+Height:1' 4"
+Weight:14.0 lbs.
+Evolution:Marowak (Level 28)
+Pokedex:Because it never removes its skull helmet, no one has even seen this Pokemon's real face.

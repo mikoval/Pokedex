@@ -1,0 +1,8 @@
+number:8
+name:Wartortle
+type_primary:Water
+type_secondary:
+Height:3' 3"
+Weight:50.0 lbs.
+Evolution:Blastoise (Level 36)
+Pokedex:Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance.

@@ -1,0 +1,8 @@
+number:141
+name:Kabutops
+type_primary:Rock
+type_secondary:Water
+Height:4' 3"
+Weight:89.0 lbs.
+Evolution:N/A
+Pokedex:Its sleek shape is perfect for swimming. It slashes prey with its claws and drains the body fluids.

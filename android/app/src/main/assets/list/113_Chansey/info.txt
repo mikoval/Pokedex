@@ -1,0 +1,8 @@
+number:113
+name:Chansey
+type_primary:Normal
+type_secondary:
+Height:3' 7"
+Weight:76.0 lbs.
+Evolution:N/A
+Pokedex:A rare and elusive Pokemon that is said to bring happiness to those who manage to get it.

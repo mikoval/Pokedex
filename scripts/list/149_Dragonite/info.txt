@@ -1,0 +1,8 @@
+number:149
+name:Dragonite
+type_primary:Dragon
+type_secondary:Flying
+Height:7' 3"
+Weight:463.0 lbs.
+Evolution:N/A
+Pokedex:An extremely rarely seen marine Pokemon. Its intelligence is said to match that of humans.

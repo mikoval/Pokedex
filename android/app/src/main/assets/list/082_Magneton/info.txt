@@ -1,0 +1,8 @@
+number:82
+name:Magneton
+type_primary:Electric
+type_secondary:
+Height:3' 3"
+Weight:132.0 lbs.
+Evolution:N/A
+Pokedex:Formed by several Magnemites linked together. They frequently appear when sunspots flare up.

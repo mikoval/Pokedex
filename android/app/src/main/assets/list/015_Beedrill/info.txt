@@ -1,0 +1,8 @@
+number:15
+name:Beedrill
+type_primary:Bug
+type_secondary:Poison
+Height:3' 3"
+Weight:65.0 lbs.
+Evolution:N/A
+Pokedex:Flies at high speed and attacks using its large venomous stingers on its forelegs and tail.

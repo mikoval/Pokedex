@@ -56,6 +56,9 @@ public class PokemonListAdapter extends RecyclerView.Adapter<PokemonListAdapter.
         // - replace the contents of the view with that element
         holder.view.setNumber(mDataset.get(position).number);
         holder.view.setName(mDataset.get(position).name);
+        holder.view.setType1(mDataset.get(position).primaryType);
+        holder.view.setType2(mDataset.get(position).secondaryType);
+
     }
 
     // Return the size of your dataset (invoked by the layout manager)

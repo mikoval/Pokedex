@@ -1,0 +1,8 @@
+number:111
+name:Rhyhorn
+type_primary:Ground
+type_secondary:Rock
+Height:3' 3"
+Weight:254.0 lbs.
+Evolution:Rhydon (Level 42)
+Pokedex:Its massive bones are 1000 times harder than human bones. It can easily knock a trailer flying.

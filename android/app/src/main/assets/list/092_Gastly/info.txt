@@ -1,0 +1,8 @@
+number:92
+name:Gastly
+type_primary:Ghost
+type_secondary:Poison
+Height:4' 3"
+Weight:0.2 lbs.
+Evolution:Haunter (Level 25)
+Pokedex:Almost invisible, this gaseous Pokemon cloaks the target and puts it to sleep without notice.

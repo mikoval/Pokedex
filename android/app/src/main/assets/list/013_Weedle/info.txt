@@ -1,0 +1,8 @@
+number:13
+name:Weedle
+type_primary:Bug
+type_secondary:Poison
+Height:1' 0"
+Weight:7.0 lbs.
+Evolution:Kakuna (Level 7)
+Pokedex:Often found in forests, eating leaves. It has a sharp venomous stinger on its head.

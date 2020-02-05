@@ -1,0 +1,8 @@
+number:136
+name:Flareon
+type_primary:Fire
+type_secondary:
+Height:2' 11"
+Weight:55.0 lbs.
+Evolution:N/A
+Pokedex:When storing thermal energy in its body, its temperature could soar to over 1,600 degrees.

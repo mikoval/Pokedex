@@ -1,0 +1,8 @@
+number:47
+name:Parasect
+type_primary:Bug
+type_secondary:Grass
+Height:3' 3"
+Weight:65.0 lbs.
+Evolution:N/A
+Pokedex:A host-parasite pair in which the parasite mushroom has taken over the host bug. Prefers damp places.

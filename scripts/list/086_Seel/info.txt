@@ -1,0 +1,8 @@
+number:86
+name:Seel
+type_primary:Water
+type_secondary:
+Height:3' 7"
+Weight:198.0 lbs.
+Evolution:Dewgong (Level 34)
+Pokedex:The protruding horn on its head is very hard. It is used for bashing through thick ice.

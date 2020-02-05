@@ -1,0 +1,8 @@
+number:125
+name:Electabuzz
+type_primary:Electric
+type_secondary:
+Height:3' 7"
+Weight:66.0 lbs.
+Evolution:N/A
+Pokedex:Normally found near power plants, they can wander away and cause major blackouts in cities.

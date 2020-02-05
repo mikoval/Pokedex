@@ -1,0 +1,8 @@
+number:108
+name:Lickitung
+type_primary:Normal
+type_secondary:
+Height:3' 11"
+Weight:144.0 lbs.
+Evolution:N/A
+Pokedex:Its tongue can be extended like a chameleon's. It leaves a tingling sensation when it licks enemies.

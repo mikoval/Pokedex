@@ -1,0 +1,8 @@
+number:41
+name:Zubat
+type_primary:Poison
+type_secondary:Flying
+Height:2' 7"
+Weight:17.0 lbs.
+Evolution:Golbat (Level 22)
+Pokedex:Forms colonies in perpetually dark places. Uses ultrasonic waves to identify and approach targets.

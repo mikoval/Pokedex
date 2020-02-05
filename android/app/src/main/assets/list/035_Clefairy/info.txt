@@ -1,0 +1,8 @@
+number:35
+name:Clefairy
+type_primary:Normal
+type_secondary:
+Height:2' 0"
+Weight:17.0 lbs.
+Evolution:Clefable (use Moon Stone)
+Pokedex:Its magical and cute appeal has many admirers. It is rare and found only in certain areas.

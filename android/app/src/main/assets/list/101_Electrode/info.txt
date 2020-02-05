@@ -1,0 +1,9 @@
+number:101
+name:Electrode
+type_primary:Electric
+type_secondary:
+Height:3' 11"
+Weight:147.0 lbs.
+Evolution:N/A
+Pokedex:It stores electric energy under very high pressure. It often explodes with little or no provocation.
+HMs is can use:5

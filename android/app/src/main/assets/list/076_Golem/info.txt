@@ -1,0 +1,8 @@
+number:76
+name:Golem
+type_primary:Rock
+type_secondary:Ground
+Height:4' 7"
+Weight:662.0 lbs.
+Evolution:N/A
+Pokedex:Its boulder-like body is extremely hard. It can easily withstand dynamite blasts without damage.

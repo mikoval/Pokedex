@@ -1,0 +1,8 @@
+number:116
+name:Horsea
+type_primary:Water
+type_secondary:
+Height:1' 4"
+Weight:18.0 lbs.
+Evolution:Seadra (Level 32)
+Pokedex:Known to shoot down flying bugs with precision blasts of ink from the surface of the water.

@@ -1,0 +1,8 @@
+number:39
+name:Jigglypuff
+type_primary:Normal
+type_secondary:
+Height:1' 8"
+Weight:12.0 lbs.
+Evolution:Wigglytuff (use Moon Stone)
+Pokedex:When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep.

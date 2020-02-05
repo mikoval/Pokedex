@@ -1,0 +1,8 @@
+number:74
+name:Geodude
+type_primary:Rock
+type_secondary:Ground
+Height:1' 4"
+Weight:44.0 lbs.
+Evolution:Graveler (Level 25)
+Pokedex:Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.

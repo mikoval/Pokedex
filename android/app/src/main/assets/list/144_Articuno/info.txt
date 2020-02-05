@@ -1,0 +1,8 @@
+number:144
+name:Articuno
+type_primary:Ice
+type_secondary:Flying
+Height:5' 7"
+Weight:122.0 lbs.
+Evolution:N/A
+Pokedex:A legendary bird Pokemon that is said to appear to doomed people who are lost in icy mountains.

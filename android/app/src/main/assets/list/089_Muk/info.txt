@@ -1,0 +1,8 @@
+number:89
+name:Muk
+type_primary:Poison
+type_secondary:
+Height:3' 11"
+Weight:66.0 lbs.
+Evolution:N/A
+Pokedex:Thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison.

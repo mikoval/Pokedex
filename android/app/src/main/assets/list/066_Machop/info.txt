@@ -1,0 +1,8 @@
+number:66
+name:Machop
+type_primary:Fighting
+type_secondary:
+Height:2' 7"
+Weight:43.0 lbs.
+Evolution:Machoke (Level 28)
+Pokedex:Loves to build its muscles. It trains in all styles of martial arts to become even stronger.

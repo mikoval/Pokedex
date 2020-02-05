@@ -1,0 +1,8 @@
+number:114
+name:Tangela
+type_primary:Grass
+type_secondary:
+Height:3' 3"
+Weight:77.0 lbs.
+Evolution:N/A
+Pokedex:The whole body is swathed with wide vines that are similar to seaweed. Its vines shake as it walks.

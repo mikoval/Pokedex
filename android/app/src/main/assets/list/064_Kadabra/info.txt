@@ -1,0 +1,8 @@
+number:64
+name:Kadabra
+type_primary:Psychic
+type_secondary:
+Height:4' 3"
+Weight:125.0 lbs.
+Evolution:Alakazam (must be traded to evolve)
+Pokedex:It emits special alpha waves from its body that induce headaches just by being close by.

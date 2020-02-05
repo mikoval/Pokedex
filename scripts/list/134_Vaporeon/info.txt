@@ -1,0 +1,8 @@
+number:134
+name:Vaporeon
+type_primary:Water
+type_secondary:
+Height:3' 3"
+Weight:64.0 lbs.
+Evolution:N/A
+Pokedex:Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's.

@@ -1,0 +1,8 @@
+number:121
+name:Starmie
+type_primary:Water
+type_secondary:
+Height:3' 7"
+Weight:176.0 lbs.
+Evolution:N/A
+Pokedex:Its central core glows with the seven colors of the rainbow. Some value the core as a gem.

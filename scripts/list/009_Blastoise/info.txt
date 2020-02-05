@@ -1,0 +1,8 @@
+number:9
+name:Blastoise
+type_primary:Water
+type_secondary:
+Height:5' 3"
+Weight:189.0 lbs.
+Evolution:N/A
+Pokedex:A brutal Pokemon with pressurized water jets on its shell. They are used for high speed tackles.

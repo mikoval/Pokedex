@@ -1,0 +1,8 @@
+number:63
+name:Abra
+type_primary:Psychic
+type_secondary:
+Height:2' 11"
+Weight:43.0 lbs.
+Evolution:Kadabra (Level 16)
+Pokedex:Using its ability to read minds, it will identify impending danger and teleport to safety.

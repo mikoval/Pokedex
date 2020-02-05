@@ -1,0 +1,8 @@
+number:150
+name:Mewtwo
+type_primary:Psychic
+type_secondary:
+Height:6' 7"
+Weight:269.0 lbs.
+Evolution:N/A
+Pokedex:It was created by a scientist after years of horrific gene splicing and DNA engineering experiments.

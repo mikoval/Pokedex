@@ -1,0 +1,8 @@
+number:79
+name:Slowpoke
+type_primary:Water
+type_secondary:Psychic
+Height:3' 11"
+Weight:79.0 lbs.
+Evolution:Slowbro (Level 37)
+Pokedex:Incredibly slow and dopey. It takes 5 seconds for it to feel pain when under attack.

@@ -1,0 +1,8 @@
+number:67
+name:Machoke
+type_primary:Fighting
+type_secondary:
+Height:4' 11"
+Weight:155.0 lbs.
+Evolution:Machamp (must be traded to evolve)
+Pokedex:Its muscular body is so powerful, it must wear a power save belt to be able to regulate its motions.

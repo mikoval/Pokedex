@@ -1,0 +1,8 @@
+number:14
+name:Kakuna
+type_primary:Bug
+type_secondary:Poison
+Height:2' 0"
+Weight:22.0 lbs.
+Evolution:Beedrill (Level 10)
+Pokedex:Almost incapable of moving, this Pokemon can only harden its shell to protect itself from predators.

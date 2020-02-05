@@ -1,0 +1,8 @@
+number:40
+name:Wigglytuff
+type_primary:Normal
+type_secondary:
+Height:3' 3"
+Weight:26.0 lbs.
+Evolution:N/A
+Pokedex:The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size.

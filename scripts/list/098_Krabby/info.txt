@@ -1,0 +1,9 @@
+number:98
+name:Krabby
+type_primary:Water
+type_secondary:
+Height:1' 4"
+Weight:14.0 lbs.
+Evolution:Kingler (Level 28)
+Pokedex:Its pincers are not only powerful weapons, they are used for balance when walking sideways.
+TMs it can learn:3, 6, 8, 9, 10, 11, 12, 13, 14, 20, 31, 32, 34, 44, 50

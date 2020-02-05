@@ -1,0 +1,8 @@
+number:84
+name:Doduo
+type_primary:Normal
+type_secondary:Flying
+Height:4' 7"
+Weight:86.0 lbs.
+Evolution:Dodrio (Level 31)
+Pokedex:A bird that makes up for its poor flying with its fast foot speed. Leaves giant footprints.

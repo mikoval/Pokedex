@@ -1,0 +1,8 @@
+number:133
+name:Eevee
+type_primary:Normal
+type_secondary:
+Height:1' 0"
+Weight:14.0 lbs.
+Evolution:Vaporeon (use Water Stone), Jolteon (use Thunder Stone),
+Pokedex:Its genetic code is irregular. It may mutate if it is exposed to radiation from element Stones.

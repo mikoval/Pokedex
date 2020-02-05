@@ -1,0 +1,8 @@
+number:45
+name:Vileplume
+type_primary:Grass
+type_secondary:Poison
+Height:3' 11"
+Weight:41.0 lbs.
+Evolution:N/A
+Pokedex:The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.

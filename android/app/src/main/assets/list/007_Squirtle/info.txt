@@ -1,0 +1,8 @@
+number:7
+name:Squirtle
+type_primary:Water
+type_secondary:
+Height:1' 8"
+Weight:20.0 lbs.
+Evolution:Wartortle (Level 16)
+Pokedex:After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth.

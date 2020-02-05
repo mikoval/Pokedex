@@ -1,0 +1,8 @@
+number:48
+name:Venonat
+type_primary:Bug
+type_secondary:Poison
+Height:3' 3"
+Weight:66.0 lbs.
+Evolution:Venomoth (Level 31)
+Pokedex:Lives in the shadows of tall trees where it eats insects. It is attracted by light at night.

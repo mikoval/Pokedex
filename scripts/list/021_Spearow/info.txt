@@ -1,0 +1,8 @@
+number:21
+name:Spearow
+type_primary:Normal
+type_secondary:Flying
+Height:1' 0"
+Weight:4.0 lbs.
+Evolution:Fearow (Level 20)
+Pokedex:Eats bugs in grassy area. It has to flap its short wings at high speed to stay airborne.

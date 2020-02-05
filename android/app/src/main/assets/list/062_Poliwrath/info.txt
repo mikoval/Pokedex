@@ -1,0 +1,8 @@
+number:62
+name:Poliwrath
+type_primary:Water
+type_secondary:
+Height:4' 3"
+Weight:119.0 lbs.
+Evolution:N/A
+Pokedex:An adept swimmer at both the front crawl and breast stroke. Easily overtakes the best human swimmers.

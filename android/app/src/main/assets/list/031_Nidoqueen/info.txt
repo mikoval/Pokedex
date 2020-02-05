@@ -1,0 +1,8 @@
+number:31
+name:Nidoqueen
+type_primary:Poison
+type_secondary:Ground
+Height:4' 3"
+Weight:132.0 lbs.
+Evolution:N/A
+Pokedex:Its hard scales provide strong protection. It uses its hefty bulk to execute powerful moves.

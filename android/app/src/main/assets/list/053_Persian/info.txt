@@ -1,0 +1,8 @@
+number:53
+name:Persian
+type_primary:Normal
+type_secondary:
+Height:3' 3"
+Weight:71.0 lbs.
+Evolution:N/A
+Pokedex:Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness.

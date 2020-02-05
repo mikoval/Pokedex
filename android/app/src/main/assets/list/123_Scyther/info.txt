@@ -1,0 +1,8 @@
+number:123
+name:Scyther
+type_primary:Bug
+type_secondary:Flying
+Height:4' 11"
+Weight:123.0 lbs.
+Evolution:N/A
+Pokedex:With ninja-like agility and speed, it can create the illusion that there is more than one.

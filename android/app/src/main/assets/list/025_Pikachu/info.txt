@@ -1,0 +1,8 @@
+number:25
+name:Pikachu
+type_primary:Electric
+type_secondary:
+Height:1' 4"
+Weight:13.0 lbs.
+Evolution:Raichu (use Thunder Stone)
+Pokedex:When several of these Pokemon gather, their electricity could build and cause lightning storms.

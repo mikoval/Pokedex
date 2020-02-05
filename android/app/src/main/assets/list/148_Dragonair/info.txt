@@ -1,0 +1,8 @@
+number:148
+name:Dragonair
+type_primary:Dragon
+type_secondary:
+Height:13' 1"
+Weight:36.0 lbs.
+Evolution:Dragonite (Level 55)
+Pokedex:A mystical Pokemon that exudes a gentle aura. Has the ability to change climate conditions.

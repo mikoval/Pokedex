@@ -1,0 +1,8 @@
+number:16
+name:Pidgey
+type_primary:Normal
+type_secondary:Flying
+Height:1' 0"
+Weight:4.0 lbs.
+Evolution:Pidgeotto (Level 18)
+Pokedex:A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.

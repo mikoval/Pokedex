@@ -3,8 +3,8 @@
     Height: 2' 4"
     Weight: 15.0 lbs.
     Evolution: Ivysaur (Level 16)
-    Pokédex: A strange seed was planted on its back at birth. The plant
-             sprouts and grows with this Pokémon.
+    Pokedex: A strange seed was planted on its back at birth. The plant
+             sprouts and grows with this Pokemon.
     TMs: 3, 6, 8, 9, 10, 20, 21, 22, 31, 32, 33, 34, 44, 50
     HMs: 1
     Abilities:
@@ -23,7 +23,7 @@
     Height: 3' 3"
     Weight: 29.0 lbs.
     Evolution: Venusaur (Level 32)
-    Pokédex: When the bulb on its back grows large, it appears to lose the
+    Pokedex: When the bulb on its back grows large, it appears to lose the
              speed to stand on its hind legs.
     TMs: 3, 6, 8, 9, 10, 20, 21, 22, 31, 32, 33, 34, 44, 50
     HMs: 1
@@ -43,7 +43,7 @@
     Height: 6' 7"
     Weight: 221.0 lbs.
     Evolution: N/A
-    Pokédex: The plant blooms when it is absorbing solar energy. It stays on
+    Pokedex: The plant blooms when it is absorbing solar energy. It stays on
              the move to seek sunlight.
     TMs: 3, 6, 8, 9, 10, 15, 20, 21, 22, 31, 32, 33, 34, 44, 50
     HMs: 1
@@ -63,7 +63,7 @@
     Height: 2' 0"
     Weight: 19.0 lbs.
     Evolution: Charmeleon (Level 16)
-    Pokédex: Obviously prefers hot places. When it rains, steam is said to
+    Pokedex: Obviously prefers hot places. When it rains, steam is said to
              spout from the tip of its tail.
     TMs: 1, 3, 5, 6, 8, 9, 10, 17, 18, 19, 20, 23, 28, 31, 32, 33, 34, 38,
          39, 40, 44, 50
@@ -83,7 +83,7 @@
     Height: 3' 7"
     Weight: 42.0 lbs.
     Evolution: Charizard (Level 36)
-    Pokédex: When it swings its burning tail, it elevates the temperature to
+    Pokedex: When it swings its burning tail, it elevates the temperature to
              unbearably high levels.
     TMs: 1, 3, 5, 6, 8, 9, 10, 17, 18, 19, 20, 23, 28, 31, 32, 33, 34, 38,
          39, 40, 44, 50
@@ -103,7 +103,7 @@
     Height: 5' 7"
     Weight: 200.0 lbs.
     Evolution: N/A
-    Pokédex: Spits fire that is hot enough to melt boulders. Known to cause
+    Pokedex: Spits fire that is hot enough to melt boulders. Known to cause
              forest fires unintentionally.
     TMs: 1, 3, 5, 6, 8, 9, 10, 17, 18, 19, 20, 23, 26, 27, 28, 31, 32, 33,
          34, 38, 39, 40, 44, 50
@@ -123,7 +123,7 @@
     Height: 1' 8"
     Weight: 20.0 lbs.
     Evolution: Wartortle (Level 16)
-    Pokédex: After birth, its back swells and hardens into a shell.
+    Pokedex: After birth, its back swells and hardens into a shell.
              Powerfully sprays foam from its mouth.
     TMs: 1, 5, 6, 8, 9, 10, 11, 12, 13, 14, 17, 18, 19, 20, 28, 31, 32, 33,
          34, 40, 44, 50
@@ -143,7 +143,7 @@
     Height: 3' 3"
     Weight: 50.0 lbs.
     Evolution: Blastoise (Level 36)
-    Pokédex: Often hides in water to stalk unwary prey. For swimming fast, it
+    Pokedex: Often hides in water to stalk unwary prey. For swimming fast, it
              moves its ears to maintain balance.
     TMs: 1, 5, 6, 8, 9, 10, 11, 12, 13, 14, 17, 18, 19, 20, 28, 31, 32, 33,
          34, 40, 44, 50
@@ -163,7 +163,7 @@
     Height: 5' 3"
     Weight: 189.0 lbs.
     Evolution: N/A
-    Pokédex: A brutal Pokémon with pressurized water jets on its shell. They
+    Pokedex: A brutal Pokemon with pressurized water jets on its shell. They
              are used for high speed tackles.
     TMs: 1, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 26, 27, 28,
          31, 32, 33, 34, 40, 44, 50
@@ -183,7 +183,7 @@
      Height: 1' 0"
      Weight: 6.0 lbs.
      Evolution: Metapod (Level 7)
-     Pokédex: Its short feet are tipped with suction pads that enable it to
+     Pokedex: Its short feet are tipped with suction pads that enable it to
               tirelessly climb slopes and walls.
      TMs: N/A
      HMs: N/A
@@ -196,7 +196,7 @@
      Height: 2' 4"
      Weight: 22.0 lbs.
      Evolution: Butterfree (Level 10)
-     Pokédex: This Pokémon is vulnerable to attack while its shell is soft,
+     Pokedex: This Pokemon is vulnerable to attack while its shell is soft,
               exposing its weak and tender body.
      TMs: N/A
      HMs: N/A
@@ -212,7 +212,7 @@
      Height: 3' 7"
      Weight: 71.0 lbs.
      Evolution: N/A
-     Pokédex: In battle, it flaps its wings at high speed to release highly
+     Pokedex: In battle, it flaps its wings at high speed to release highly
               toxic dust into the air.
      TMs: 2, 4, 6, 9, 10, 15, 20, 21, 22, 29, 30, 31, 32, 33, 34, 39, 44, 46,
           50
@@ -234,7 +234,7 @@
      Height: 1' 0"
      Weight: 7.0 lbs.
      Evolution: Kakuna (Level 7)
-     Pokédex: Often found in forests, eating leaves. It has a sharp venomous
+     Pokedex: Often found in forests, eating leaves. It has a sharp venomous
               stinger on its head.
      TMs: N/A
      HMs: N/A
@@ -247,7 +247,7 @@
      Height: 2' 0"
      Weight: 22.0 lbs.
      Evolution: Beedrill (Level 10)
-     Pokédex: Almost incapable of moving, this Pokémon can only harden its
+     Pokedex: Almost incapable of moving, this Pokemon can only harden its
               shell to protect itself from predators.
      TMs: N/A
      HMs: N/A
@@ -263,7 +263,7 @@
      Height: 3' 3"
      Weight: 65.0 lbs.
      Evolution: N/A
-     Pokédex: Flies at high speed and attacks using its large venomous
+     Pokedex: Flies at high speed and attacks using its large venomous
               stingers on its forelegs and tail.
      TMs: 3, 6, 9, 10, 15, 20, 21, 31, 32, 33, 34, 39, 40, 44, 50
      HMs: 1
@@ -284,7 +284,7 @@
      Height: 1' 0"
      Weight: 4.0 lbs.
      Evolution: Pidgeotto (Level 18)
-     Pokédex: A common sight in forests and woods. It flaps its wings at
+     Pokedex: A common sight in forests and woods. It flaps its wings at
               ground level to kick up blinding sand.
      TMs: 2, 4, 6, 9, 10, 20, 31, 32, 33, 34, 39, 43, 44, 50
      HMs: 2
@@ -302,7 +302,7 @@
      Height: 3' 7"
      Weight: 66.0 lbs.
      Evolution: Pidgeot (Level 36)
-     Pokédex: Very protective of its sprawling territorial area, this Pokémon
+     Pokedex: Very protective of its sprawling territorial area, this Pokemon
               will fiercely peck at any intruder.
      TMs: 2, 4, 6, 9, 10, 20, 31, 32, 33, 34, 39, 43, 44, 50
      HMs: 2
@@ -320,7 +320,7 @@
      Height: 4' 11"
      Weight: 87.0 lbs.
      Evolution: N/A
-     Pokédex: When hunting, it skims the surface of water at high speed to
+     Pokedex: When hunting, it skims the surface of water at high speed to
               pick off unwary prey such as Magikarp.
      TMs: 2, 4, 6, 9, 10, 15, 20, 31, 32, 33, 34, 39, 43, 44, 50
      HMs: 2
@@ -339,7 +339,7 @@
      Height: 1' 0"
      Weight: 8.0 lbs.
      Evolution: Raticate (Level 20)
-     Pokédex: Bites anything when it attacks. Small and very quick, it is a
+     Pokedex: Bites anything when it attacks. Small and very quick, it is a
               common sight in many places.
      TMs: 6, 8, 9, 10, 11, 12, 14, 20, 24, 25, 28, 31, 32, 34, 39, 40, 44, 50
      HMs: N/A
@@ -356,7 +356,7 @@
      Height: 2' 4"
      Weight: 41.0 lbs.
      Evolution: N/A
-     Pokédex: It uses its whiskers to maintain balance. It apparently slows
+     Pokedex: It uses its whiskers to maintain balance. It apparently slows
               down if they are cut off.
      TMs: 6, 8, 9, 10, 11, 12, 14, 15, 20, 24, 25, 28, 31, 32, 34, 39, 40,
           44, 50
@@ -375,7 +375,7 @@
      Height: 1' 0"
      Weight: 4.0 lbs.
      Evolution: Fearow (Level 20)
-     Pokédex: Eats bugs in grassy area. It has to flap its short wings at
+     Pokedex: Eats bugs in grassy area. It has to flap its short wings at
               high speed to stay airborne.
      TMs: 2, 4, 6, 9, 10, 20, 31, 32, 34, 39, 43, 44, 50
      HMs: 2
@@ -393,7 +393,7 @@
      Height: 3' 11"
      Weight: 84.0 lbs.
      Evolution: N/A
-     Pokédex: With its huge and magnificent wings, it can keep aloft without
+     Pokedex: With its huge and magnificent wings, it can keep aloft without
               ever having to land for rest.
      TMs: 2, 4, 6, 9, 10, 15, 20, 31, 32, 34, 39, 43, 44, 50
      HMs: 2
@@ -412,7 +412,7 @@
      Height: 6' 7"
      Weight: 15.0 lbs.
      Evolution: Arbok (Level 22)
-     Pokédex: Moves silently and stealthily. Eats the eggs of birds, such as
+     Pokedex: Moves silently and stealthily. Eats the eggs of birds, such as
               Pidgey and Spearow, whole.
      TMs: 6, 8, 9, 10, 20, 21, 26, 27, 28, 31, 32, 34, 40, 44, 48, 50
      HMs: 4
@@ -431,7 +431,7 @@
      Height: 11' 6"
      Weight: 143.0 lbs.
      Evolution: N/A
-     Pokédex: It is rumored that the ferocious warning markings on its belly
+     Pokedex: It is rumored that the ferocious warning markings on its belly
               differ from area to area.
      TMs: 6, 8, 9, 10, 15, 20, 21, 26, 27, 28, 31, 32, 34, 40, 44, 48, 50
      HMs: 4
@@ -449,7 +449,7 @@
      Height: 1' 4"
      Weight: 13.0 lbs.
      Evolution: Raichu (use Thunder Stone)
-     Pokédex: When several of these Pokémon gather, their electricity could
+     Pokedex: When several of these Pokemon gather, their electricity could
               build and cause lightning storms.
      TMs: 1, 5, 6, 8, 9, 10, 16, 17, 19, 20, 24, 25, 31, 32, 33, 34, 39, 40,
           44, 45, 50
@@ -468,7 +468,7 @@
      Height: 2' 7"
      Weight: 66.0 lbs.
      Evolution: N/A
-     Pokédex: Its long tail serves as a ground to protect itself from its own
+     Pokedex: Its long tail serves as a ground to protect itself from its own
               high voltage power.
      TMs: 1, 5, 6, 8, 9, 10, 15, 16, 17, 19, 20, 24, 25, 31, 32, 33, 34, 39,
           40, 44, 45, 50
@@ -484,7 +484,7 @@
      Height: 2' 0"
      Weight: 26.0 lbs.
      Evolution: Sandslash (Level 22)
-     Pokédex: Burrows deep underground in arid locations far from water. It
+     Pokedex: Burrows deep underground in arid locations far from water. It
               only emerges to hunt for food.
      TMs: 3, 6, 8, 9, 10, 17, 19, 20, 26, 27, 28, 31, 32, 34, 39, 40, 44, 48,
           50
@@ -503,7 +503,7 @@
      Height: 3' 3"
      Weight: 65.0 lbs.
      Evolution: N/A
-     Pokédex: Curls up into a ball when threatened. It can roll while curled
+     Pokedex: Curls up into a ball when threatened. It can roll while curled
               up to attack or escape.
      TMs: 3, 6, 8, 9, 10, 15, 17, 19, 20, 26, 27, 28, 31, 32, 34, 39, 40, 44,
           48, 50
@@ -521,7 +521,7 @@
      Height: 1' 4"
      Weight: 15.0 lbs.
      Evolution: Nidorina (Level 16)
-     Pokédex: Although small, its venomous barbs render this Pokémon
+     Pokedex: Although small, its venomous barbs render this Pokemon
               dangerous. The female has smaller horns.
      TMs: 6, 8, 9, 10, 14, 20, 24, 25, 31, 32, 33, 34, 40, 44, 50
      HMs: N/A
@@ -540,7 +540,7 @@
      Height: 2' 7"
      Weight: 44.0 lbs.
      Evolution: Nidoqueen (use Moon Stone)
-     Pokédex: The female's horn develops slowly. Prefers physical attacks
+     Pokedex: The female's horn develops slowly. Prefers physical attacks
               such as clawing and biting.
      TMs: 6, 7, 8, 9, 10, 11, 12, 13, 14, 20, 24, 25, 31, 32, 33, 34, 40, 44,
           50
@@ -560,7 +560,7 @@
      Height: 4' 3"
      Weight: 132.0 lbs.
      Evolution: N/A
-     Pokédex: Its hard scales provide strong protection. It uses its hefty
+     Pokedex: Its hard scales provide strong protection. It uses its hefty
               bulk to execute powerful moves.
      TMs: 1, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24,
           25, 26, 27, 31, 32, 33, 34, 38, 40, 44, 48, 50
@@ -577,7 +577,7 @@
      Height: 1' 8"
      Weight: 20.0 lbs.
      Evolution: Nidorino (Level 16)
-     Pokédex: Stiffens its ears to sense danger. The larger its horns, the
+     Pokedex: Stiffens its ears to sense danger. The larger its horns, the
               more powerful its secreted venom.
      TMs: 6, 7, 8, 9, 10, 14, 20, 24, 25, 31, 32, 33, 34, 40, 44, 50
      HMs: N/A
@@ -596,7 +596,7 @@
      Height: 2' 11"
      Weight: 43.0 lbs.
      Evolution: Nidoking (use Moon Stone)
-     Pokédex: An aggressive Pokémon that is quick to attack. The horn on its
+     Pokedex: An aggressive Pokemon that is quick to attack. The horn on its
               head secretes a powerful venom.
      TMs: 6, 7, 8, 9, 10, 11, 12, 13, 14, 20, 24, 25, 31, 32, 33, 34, 40, 44,
           50
@@ -616,7 +616,7 @@
      Height: 4' 7"
      Weight: 137.0 lbs.
      Evolution: N/A
-     Pokédex: It uses its powerful tail in battle to smash, constrict, then
+     Pokedex: It uses its powerful tail in battle to smash, constrict, then
               break the prey's bones.
      TMs: 1, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24,
           25, 26, 27, 31, 32, 33, 34, 38, 40, 44, 48, 50
@@ -633,7 +633,7 @@
      Height: 2' 0"
      Weight: 17.0 lbs.
      Evolution: Clefable (use Moon Stone)
-     Pokédex: Its magical and cute appeal has many admirers. It is rare and
+     Pokedex: Its magical and cute appeal has many admirers. It is rare and
               found only in certain areas.
      TMs: 1, 5, 6, 8, 9, 10, 11, 12, 13, 14, 17, 18, 19, 20, 22, 24, 25, 29,
           30, 31, 32, 33, 34, 35, 38, 40, 44, 45, 46, 49, 50
@@ -653,7 +653,7 @@
      Height: 4' 3"
      Weight: 88.0 lbs.
      Evolution: N/A
-     Pokédex: A timid fairy Pokémon that is rarely seen. It will run and hide
+     Pokedex: A timid fairy Pokemon that is rarely seen. It will run and hide
               the moment it senses people.
      TMs: 1, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 22, 24, 25,
           29, 30, 31, 32, 33, 34, 35, 38, 40, 44, 45, 46, 49, 50
@@ -674,7 +674,7 @@
      Height: 2' 0"
      Weight: 22.0 lbs.
      Evolution: Ninetales (use Fire Stone)
-     Pokédex: At the time of its birth, it has just one tail. The tail splits
+     Pokedex: At the time of its birth, it has just one tail. The tail splits
               from its tip as it grows older.
      TMs: 6, 8, 9, 10, 20, 28, 31, 32, 33, 34, 38, 39, 40, 44, 50
      HMs: N/A
@@ -692,7 +692,7 @@
      Height: 3' 7"
      Weight: 44.0 lbs.
      Evolution: N/A
-     Pokédex: Very smart and very vengeful. Grabbing one of its many tails
+     Pokedex: Very smart and very vengeful. Grabbing one of its many tails
               could result in a 1000-year curse.
      TMs: 6, 8, 9, 10, 15, 20, 28, 31, 32, 33, 34, 38, 39, 40, 44, 50
      HMs: N/A
@@ -704,7 +704,7 @@
      Height: 1' 8"
      Weight: 12.0 lbs.
      Evolution: Wigglytuff (use Moon Stone)
-     Pokédex: When its huge eyes light up, it sings a mysteriously soothing
+     Pokedex: When its huge eyes light up, it sings a mysteriously soothing
               melody that lulls its enemies to sleep.
      TMs: 1, 5, 6, 8, 9, 10, 11, 12, 13, 14, 17, 18, 19, 20, 22, 24, 25, 29,
           30, 31, 32, 33, 34, 38, 40, 44, 45, 46, 49, 50
@@ -724,7 +724,7 @@
      Height: 3' 3"
      Weight: 26.0 lbs.
      Evolution: N/A
-     Pokédex: The body is soft and rubbery. When angered, it will suck in air
+     Pokedex: The body is soft and rubbery. When angered, it will suck in air
               and inflate itself to an enormous size.
      TMs: 1, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 22, 24, 25,
           29, 30, 31, 32, 33, 34, 38, 40, 44, 45, 46, 49, 50
@@ -737,7 +737,7 @@
      Height: 2' 7"
      Weight: 17.0 lbs.
      Evolution: Golbat (Level 22)
-     Pokédex: Forms colonies in perpetually dark places. Uses ultrasonic
+     Pokedex: Forms colonies in perpetually dark places. Uses ultrasonic
               waves to identify and approach targets.
      TMs: 2, 4, 6, 9, 10, 20, 21, 31, 32, 34, 39, 44, 50
      HMs: N/A
@@ -754,7 +754,7 @@
      Height: 5' 3"
      Weight: 121.0 lbs.
      Evolution: N/A
-     Pokédex: Once it strikes, it will not stop draining energy from the
+     Pokedex: Once it strikes, it will not stop draining energy from the
               victim even if it gets too heavy to fly.
      TMs: 2, 4, 6, 9, 10, 15, 20, 21, 31, 32, 34, 39, 44, 50
      HMs: N/A
@@ -773,7 +773,7 @@
      Height: 1' 8"
      Weight: 12.0 lbs.
      Evolution: Gloom (Level 21)
-     Pokédex: During the day, it keeps its face buried in the ground. At
+     Pokedex: During the day, it keeps its face buried in the ground. At
               night, it wanders around sowing its seeds.
      TMs: 3, 6, 9, 10, 20, 21, 22, 31, 32, 33, 34, 44, 50
      HMs: 1
@@ -792,7 +792,7 @@
      Height: 2' 7"
      Weight: 19.0 lbs.
      Evolution: Vileplume (use Leaf Stone)
-     Pokédex: The fluid that oozes from its mouth isn't drool. It is a nectar
+     Pokedex: The fluid that oozes from its mouth isn't drool. It is a nectar
               that is used to attract prey.
      TMs: 3, 6, 9, 10, 20, 21, 22, 31, 32, 33, 34, 44, 50
      HMs: 1
@@ -810,7 +810,7 @@
      Height: 3' 11"
      Weight: 41.0 lbs.
      Evolution: N/A
-     Pokédex: The larger its petals, the more toxic pollen it contains. Its
+     Pokedex: The larger its petals, the more toxic pollen it contains. Its
               big head is heavy and hard to hold up.
      TMs: 3, 6, 9, 10, 15, 20, 21, 22, 31, 32, 33, 34, 44, 50
      HMs: 1
@@ -822,7 +822,7 @@
      Height: 1' 0"
      Weight: 12.0 lbs.
      Evolution: Parasect (Level 24)
-     Pokédex: Burrows to suck tree roots. The mushrooms on its back grow by
+     Pokedex: Burrows to suck tree roots. The mushrooms on its back grow by
               drawing nutrients from the bug host.
      TMs: 3, 6, 8, 9, 10, 20, 21, 22, 28, 31, 32, 33, 34, 40, 44, 50
      HMs: 1
@@ -839,7 +839,7 @@
      Height: 3' 3"
      Weight: 65.0 lbs.
      Evolution: N/A
-     Pokédex: A host-parasite pair in which the parasite mushroom has taken
+     Pokedex: A host-parasite pair in which the parasite mushroom has taken
               over the host bug. Prefers damp places.
      TMs: 3, 6, 8, 9, 10, 15, 20, 21, 22, 28, 31, 32, 33, 34, 40, 44, 50
      HMs: 1
@@ -857,7 +857,7 @@
      Height: 3' 3"
      Weight: 66.0 lbs.
      Evolution: Venomoth (Level 31)
-     Pokédex: Lives in the shadows of tall trees where it eats insects. It is
+     Pokedex: Lives in the shadows of tall trees where it eats insects. It is
               attracted by light at night.
      TMs: 6, 9, 10, 20, 21, 22, 29, 31, 32, 33, 34, 44, 46, 50
      HMs: N/A
@@ -876,7 +876,7 @@
      Height: 4' 11"
      Weight: 28.0 lbs.
      Evolution: N/A
-     Pokédex: The dust-like scales covering its wings are color coded to
+     Pokedex: The dust-like scales covering its wings are color coded to
               indicate the kinds of poison it has.
      TMs: 2, 4, 6, 9, 10, 15, 20, 21, 22, 29, 30, 31, 32, 33, 34, 39, 44, 46,
           50
@@ -896,7 +896,7 @@
      Height: 0' 8"
      Weight: 2.0 lbs.
      Evolution: Dugtrio (Level 26)
-     Pokédex: Lives about one yard underground where it feeds on plant roots.
+     Pokedex: Lives about one yard underground where it feeds on plant roots.
               It sometimes appears above ground.
      TMs: 6, 8, 9, 10, 20, 26, 27, 28, 31, 32, 34, 44, 48, 50
      HMs: N/A
@@ -913,7 +913,7 @@
      Height: 2' 4"
      Weight: 73.0 lbs.
      Evolution: N/A
-     Pokédex: A team of Diglett triplets. It triggers huge earthquakes by
+     Pokedex: A team of Diglett triplets. It triggers huge earthquakes by
               burrowing 60 miles underground.
      TMs: 6, 8, 9, 10, 15, 20, 26, 27, 28, 31, 32, 34, 44, 48, 50
      HMs: N/A
@@ -931,7 +931,7 @@
      Height: 1' 4"
      Weight: 9.0 lbs.
      Evolution: Persian (Level 28)
-     Pokédex: Adores circular objects. Wanders the streets on a nightly basis
+     Pokedex: Adores circular objects. Wanders the streets on a nightly basis
               to look for dropped loose change.
      TMs: 6, 8, 9, 10, 11, 12, 16, 20, 24, 25, 31, 32, 34, 39, 40, 44, 50
      HMs: N/A
@@ -949,7 +949,7 @@
      Height: 3' 3"
      Weight: 71.0 lbs.
      Evolution: N/A
-     Pokédex: Although its fur has many admirers, it is tough to raise as a
+     Pokedex: Although its fur has many admirers, it is tough to raise as a
               pet because of its fickle meanness.
      TMs: 6, 8, 9, 10, 11, 12, 15, 16, 20, 24, 25, 31, 32, 34, 39, 40, 44, 50
      HMs: N/A
@@ -969,8 +969,8 @@
      Height: 2' 7"
      Weight: 43.0 lbs.
      Evolution: Golduck (Level 33)
-     Pokédex: While lulling its enemies with its vacant look, this wily
-              Pokémon will use psychokinetic powers.
+     Pokedex: While lulling its enemies with its vacant look, this wily
+              Pokemon will use psychokinetic powers.
      TMs: 1, 5, 6, 8, 9, 10, 11, 12, 13, 14, 16, 17, 18, 19, 20, 28, 31, 32,
           34, 39, 40, 44, 50
      HMs: 4, 5
@@ -987,7 +987,7 @@
      Height: 5' 7"
      Weight: 169.0 lbs.
      Evolution: N/A
-     Pokédex: Often seen swimming elegantly by lake shores. It is often
+     Pokedex: Often seen swimming elegantly by lake shores. It is often
               mistaken for the Japanese monster, Kappa.
      TMs: 1, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 28, 31,
           32, 34, 39, 40, 44, 50
@@ -1006,7 +1006,7 @@
      Height: 1' 8"
      Weight: 62.0 lbs.
      Evolution: Primeape (Level 28)
-     Pokédex: Extremely quick to anger. It could be docile one moment then
+     Pokedex: Extremely quick to anger. It could be docile one moment then
               thrashing away the next instant.
      TMs: 1, 5, 6, 8, 9, 10, 16, 17, 18, 19, 20, 24, 25, 28, 31, 32, 34, 35,
           39, 40, 44, 48, 50
@@ -1025,7 +1025,7 @@
      Height: 3' 3"
      Weight: 71.0 lbs.
      Evolution: N/A
-     Pokédex: Always furious and tenacious to boot. It will not abandon
+     Pokedex: Always furious and tenacious to boot. It will not abandon
               chasing its quarry until it is caught.
      TMs: 1, 5, 6, 8, 9, 10, 15, 16, 17, 18, 19, 20, 24, 25, 28, 31, 32, 34,
           35, 39, 40, 44, 48, 50
@@ -1045,7 +1045,7 @@
      Height: 2' 4"
      Weight: 42.0 lbs.
      Evolution: Arcanine (use Fire Stone)
-     Pokédex: Very protective of its territory. It will bark and bite to
+     Pokedex: Very protective of its territory. It will bark and bite to
               repel intruders from its space.
      TMs: 6, 8, 9, 10, 20, 23, 28, 31, 32, 33, 34, 38, 39, 40, 44, 50
      HMs: N/A
@@ -1063,7 +1063,7 @@
      Height: 6' 3"
      Weight: 342.0 lbs.
      Evolution: N/A
-     Pokédex: A Pokémon that has been admired since the past for its beauty.
+     Pokedex: A Pokemon that has been admired since the past for its beauty.
               It runs agilely as if on wings.
      TMs: 6, 8, 9, 10, 15, 20, 23, 28, 30, 31, 32, 33, 34, 38, 39, 40, 44, 50
      HMs: N/A
@@ -1076,7 +1076,7 @@
      Height: 2' 0"
      Weight: 27.0 lbs.
      Evolution: Poliwhirl (Level 25)
-     Pokédex: Its newly grown legs prevent it from running. It appears to
+     Pokedex: Its newly grown legs prevent it from running. It appears to
               prefer swimming than trying to stand.
      TMs: 6, 8, 9, 10, 11, 12, 13, 14, 20, 29, 31, 32, 34, 40, 44, 46, 50
      HMs: 3
@@ -1094,7 +1094,7 @@
      Height: 3' 3"
      Weight: 44.0 lbs.
      Evolution: Poliwrath (use Water Stone)
-     Pokédex: Capable of living in or out of water. When out of water, it
+     Pokedex: Capable of living in or out of water. When out of water, it
               sweats to keep its body slimy.
      TMs: 1, 5, 6, 8, 9, 10, 11, 12, 13, 14, 17, 18, 19, 20, 26, 27, 29, 31,
           32, 34, 35, 40, 44, 46, 50
@@ -1113,7 +1113,7 @@
      Height: 4' 3"
      Weight: 119.0 lbs.
      Evolution: N/A
-     Pokédex: An adept swimmer at both the front crawl and breast stroke.
+     Pokedex: An adept swimmer at both the front crawl and breast stroke.
               Easily overtakes the best human swimmers.
      TMs: 1, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 26, 27, 29,
           31, 32, 34, 35, 40, 44, 46, 50
@@ -1126,7 +1126,7 @@
      Height: 2' 11"
      Weight: 43.0 lbs.
      Evolution: Kadabra (Level 16)
-     Pokédex: Using its ability to read minds, it will identify impending
+     Pokedex: Using its ability to read minds, it will identify impending
               danger and teleport to safety.
      TMs: 1, 5, 6, 8, 9, 10, 17, 18, 19, 20, 29, 30, 31, 32, 33, 34, 35, 40,
           44, 45, 46, 49, 50
@@ -1139,7 +1139,7 @@
      Height: 4' 3"
      Weight: 125.0 lbs.
      Evolution: Alakazam (must be traded to evolve)
-     Pokédex: It emits special alpha waves from its body that induce
+     Pokedex: It emits special alpha waves from its body that induce
               headaches just by being close by.
      TMs: 1, 5, 6, 8, 9, 10, 17, 18, 19, 20, 28, 29, 30, 31, 32, 33, 34, 35,
           40, 44, 45, 46, 49, 50
@@ -1160,7 +1160,7 @@
      Height: 4' 11"
      Weight: 106.0 lbs.
      Evolution: N/A
-     Pokédex: Its brain can outperform a supercomputer. Its intelligence
+     Pokedex: Its brain can outperform a supercomputer. Its intelligence
               quotient is said to be 5,000.
      TMs: 1, 5, 6, 8, 9, 10, 15, 17, 18, 19, 20, 28, 29, 30, 31, 32, 33, 34,
           35, 40, 44, 45, 46, 49, 50
@@ -1181,7 +1181,7 @@
      Height: 2' 7"
      Weight: 43.0 lbs.
      Evolution: Machoke (Level 28)
-     Pokédex: Loves to build its muscles. It trains in all styles of martial
+     Pokedex: Loves to build its muscles. It trains in all styles of martial
               arts to become even stronger.
      TMs: 1, 5, 6, 8, 9, 10, 17, 18, 19, 20, 26, 27, 28, 31, 32, 34, 35, 38,
           40, 44, 48, 50
@@ -1199,7 +1199,7 @@
      Height: 4' 11"
      Weight: 155.0 lbs.
      Evolution: Machamp (must be traded to evolve)
-     Pokédex: Its muscular body is so powerful, it must wear a power save
+     Pokedex: Its muscular body is so powerful, it must wear a power save
               belt to be able to regulate its motions.
      TMs: 1, 5, 6, 8, 9, 10, 17, 18, 19, 20, 26, 27, 28, 31, 32, 34, 35, 38,
           40, 44, 48, 50
@@ -1217,7 +1217,7 @@
      Height: 5' 3"
      Weight: 287.0 lbs.
      Evolution: N/A
-     Pokédex: Using its heavy muscles, it throws powerful punches that can
+     Pokedex: Using its heavy muscles, it throws powerful punches that can
               send the victim clear over the horizon.
      TMs: 1, 5, 6, 8, 9, 10, 15, 17, 18, 19, 20, 26, 27, 28, 31, 32, 34, 35,
           38, 40, 44, 48, 50
@@ -1237,7 +1237,7 @@
      Height: 2' 4"
      Weight: 9.0 lbs.
      Evolution: Weepinbell (Level 21)
-     Pokédex: A carnivorous Pokémon that traps and eats bugs. It uses its
+     Pokedex: A carnivorous Pokemon that traps and eats bugs. It uses its
               root feet to soak up needed moisture.
      TMs: 3, 6, 9, 10, 20, 21, 22, 31, 32, 33, 34, 44, 50
      HMs: 1
@@ -1258,7 +1258,7 @@
      Height: 3' 3"
      Weight: 14.0 lbs.
      Evolution: Victreebel (use Leaf Stone)
-     Pokédex: It spits out Poison Powder to immobilize the enemy and then
+     Pokedex: It spits out Poison Powder to immobilize the enemy and then
               finishes it with a spray of Acid.
      TMs: 3, 6, 9, 10, 20, 21, 22, 31, 32, 33, 34, 44, 50
      HMs: 1
@@ -1278,7 +1278,7 @@
      Height: 5' 7"
      Weight: 34.0 lbs.
      Evolution: N/A
-     Pokédex: Said to live in huge colonies deep in jungles, although no one
+     Pokedex: Said to live in huge colonies deep in jungles, although no one
               has ever returned from there.
      TMs: 3, 6, 8, 9, 10, 15, 20, 21, 22, 31, 32, 33, 34, 44, 50
      HMs: 1
@@ -1291,7 +1291,7 @@
      Height: 2' 11"
      Weight: 100.0 lbs.
      Evolution: Tentacruel (Level 30)
-     Pokédex: Drifts in shallow seas. Anglers who hook them by accident are
+     Pokedex: Drifts in shallow seas. Anglers who hook them by accident are
               often punished by its stinging acid.
      TMs: 3, 6, 9, 10, 11, 12, 13, 14, 20, 21, 31, 32, 33, 34, 40, 44, 50
      HMs: 1, 3
@@ -1311,7 +1311,7 @@
      Height: 5' 3"
      Weight: 121.0 lbs.
      Evolution: N/A
-     Pokédex: The tentacles are normally kept short. On hunts, they are
+     Pokedex: The tentacles are normally kept short. On hunts, they are
               extended to ensnare and immobilize prey.
      TMs: 3, 6, 9, 10, 11, 12, 13, 14, 15, 20, 21, 31, 32, 33, 34, 40, 44, 50
      HMs: 1, 3
@@ -1331,7 +1331,7 @@
      Height: 1' 4"
      Weight: 44.0 lbs.
      Evolution: Graveler (Level 25)
-     Pokédex: Found in fields and mountains. Mistaking them for boulders,
+     Pokedex: Found in fields and mountains. Mistaking them for boulders,
               people often step or trip on them.
      TMs: 1, 6, 8, 9, 10, 17, 18, 19, 20, 26, 27, 28, 31, 32, 34, 35, 36, 38,
           44, 47, 48, 50
@@ -1350,7 +1350,7 @@
      Height: 3' 3"
      Weight: 232.0 lbs.
      Evolution: Golem (must be traded to evolve)
-     Pokédex: Rolls down slopes to move. It rolls over any obstacle without
+     Pokedex: Rolls down slopes to move. It rolls over any obstacle without
               slowing or changing its direction.
      TMs: 1, 6, 8, 9, 10, 17, 18, 19, 20, 26, 27, 28, 31, 32, 34, 35, 36, 38,
           44, 47, 48, 50
@@ -1369,7 +1369,7 @@
      Height: 4' 7"
      Weight: 662.0 lbs.
      Evolution: N/A
-     Pokédex: Its boulder-like body is extremely hard. It can easily
+     Pokedex: Its boulder-like body is extremely hard. It can easily
               withstand dynamite blasts without damage.
      TMs: 1, 5, 6, 8, 9, 10, 15, 17, 18, 19, 20, 26, 27, 28, 31, 32, 34, 35,
           36, 38, 44, 47, 48, 50
@@ -1388,7 +1388,7 @@
      Height: 3' 3"
      Weight: 66.0 lbs.
      Evolution: Rapidash (Level 40)
-     Pokédex: Its hooves are 10 times harder than diamonds. It can trample
+     Pokedex: Its hooves are 10 times harder than diamonds. It can trample
               anything completely flat in little time.
      TMs: 6, 7, 8, 9, 10, 20, 31, 32, 33, 34, 38, 39, 40, 44, 50
      HMs: N/A
@@ -1406,7 +1406,7 @@
      Height: 5' 7"
      Weight: 209.0 lbs.
      Evolution: N/A
-     Pokédex: Very competitive, this Pokémon will chase anything that moves
+     Pokedex: Very competitive, this Pokemon will chase anything that moves
               fast in the hopes of racing it.
      TMs: 6, 7, 8, 9, 10, 15, 20, 31, 32, 33, 34, 38, 39, 40, 44, 50
      HMs: N/A
@@ -1425,7 +1425,7 @@
      Height: 3' 11"
      Weight: 79.0 lbs.
      Evolution: Slowbro (Level 37)
-     Pokédex: Incredibly slow and dopey. It takes 5 seconds for it to feel
+     Pokedex: Incredibly slow and dopey. It takes 5 seconds for it to feel
               pain when under attack.
      TMs: 6, 8, 9, 10, 11, 12, 13, 14, 16, 20, 26, 27, 28, 29, 30, 31, 32,
           33, 34, 38, 39, 40, 44, 45, 46, 49, 50
@@ -1445,7 +1445,7 @@
      Height: 5' 3"
      Weight: 173.0 lbs.
      Evolution: N/A
-     Pokédex: The Shellder that is latched onto Slowpoke's tail is said to
+     Pokedex: The Shellder that is latched onto Slowpoke's tail is said to
               feed on the host's left over scraps.
      TMs: 1, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 26, 27,
           28, 29, 30, 31, 32, 33, 34, 38, 39, 40, 44, 45, 46, 49, 50
@@ -1465,7 +1465,7 @@
      Height: 1' 0"
      Weight: 13.0 lbs.
      Evolution: Magneton (Level 30)
-     Pokédex: Uses anti-gravity to stay suspended. Appears without warning
+     Pokedex: Uses anti-gravity to stay suspended. Appears without warning
               and uses Thunder Wave and similar moves.
      TMs: 6, 9, 10, 20, 24, 25, 30, 31, 32, 33, 34, 39, 44, 45, 50
      HMs: 5
@@ -1483,7 +1483,7 @@
      Height: 3' 3"
      Weight: 132.0 lbs.
      Evolution: N/A
-     Pokédex: Formed by several Magnemites linked together. They frequently
+     Pokedex: Formed by several Magnemites linked together. They frequently
               appear when sunspots flare up.
      TMs: 6, 9, 10, 15, 20, 24, 25, 30, 31, 32, 33, 34, 39, 44, 45, 50
      HMs: 5
@@ -1501,7 +1501,7 @@
      Height: 2' 7"
      Weight: 33.0 lbs.
      Evolution: N/A
-     Pokédex: The sprig of green onions it holds is its weapon. It is used
+     Pokedex: The sprig of green onions it holds is its weapon. It is used
               much like a metal sword.
      TMs: 2, 3, 4, 6, 8, 9, 10, 20, 31, 32, 33, 34, 39, 40, 44, 50
      HMs: 1, 2
@@ -1519,7 +1519,7 @@
      Height: 4' 7"
      Weight: 86.0 lbs.
      Evolution: Dodrio (Level 31)
-     Pokédex: A bird that makes up for its poor flying with its fast foot
+     Pokedex: A bird that makes up for its poor flying with its fast foot
               speed. Leaves giant footprints.
      TMs: 4, 6, 8, 9, 10, 20, 31, 32, 33, 34, 40, 43, 44, 49, 50
      HMs: 2
@@ -1537,7 +1537,7 @@
      Height: 5' 11"
      Weight: 188.0 lbs.
      Evolution: N/A
-     Pokédex: Uses its three brains to execute complex plans. While two heads
+     Pokedex: Uses its three brains to execute complex plans. While two heads
               sleep, one head stays awake.
      TMs: 4, 6, 8, 9, 10, 15, 20, 31, 32, 33, 34, 40, 43, 44, 49, 50
      HMs: 2
@@ -1555,7 +1555,7 @@
      Height: 3' 7"
      Weight: 198.0 lbs.
      Evolution: Dewgong (Level 34)
-     Pokédex: The protruding horn on its head is very hard. It is used for
+     Pokedex: The protruding horn on its head is very hard. It is used for
               bashing through thick ice.
      TMs: 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 20, 31, 32, 34, 40, 44, 50
      HMs: 3, 4
@@ -1572,7 +1572,7 @@
      Height: 5' 7"
      Weight: 265.0 lbs.
      Evolution: N/A
-     Pokédex: Stores thermal energy in its body. Swims at a steady 8 knots
+     Pokedex: Stores thermal energy in its body. Swims at a steady 8 knots
               even in intensely cold waters.
      TMs: 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 20, 31, 32, 34, 40, 44, 50
      HMs: 3, 4
@@ -1589,7 +1589,7 @@
      Height: 2' 11"
      Weight: 66.0 lbs.
      Evolution: Grimer (Level 38)
-     Pokédex: Appears in filthy areas, Thrives by sucking up polluted sludge
+     Pokedex: Appears in filthy areas, Thrives by sucking up polluted sludge
               that is pumped out of factories.
      TMs: 6, 8, 20, 21, 24, 25, 31, 32, 34, 36, 38, 44, 47, 50
      HMs: N/A
@@ -1608,7 +1608,7 @@
      Height: 3' 11"
      Weight: 66.0 lbs.
      Evolution: N/A
-     Pokédex: Thickly covered with a filthy, vile sludge. It is so toxic,
+     Pokedex: Thickly covered with a filthy, vile sludge. It is so toxic,
               even its footprints contain poison.
      TMs: 6, 8, 15, 20, 21, 24, 25, 31, 32, 34, 36, 38, 44, 47, 50
      HMs: N/A
@@ -1628,7 +1628,7 @@
      Height: 1' 0"
      Weight: 9.0 lbs.
      Evolution: Cloyster (use Water Stone)
-     Pokédex: Its hard shell repels any kind of attack. It is vulnerable only
+     Pokedex: Its hard shell repels any kind of attack. It is vulnerable only
               when its shell is open.
      TMs: 6, 9, 10, 11, 12, 13, 14, 20, 30, 31, 32, 33, 34, 36, 39, 44, 47,
           49, 50
@@ -1647,7 +1647,7 @@
      Height: 4' 11"
      Weight: 292.0 lbs.
      Evolution: N/A
-     Pokédex: When attacked, it launches horns in quick volleys. Its innards
+     Pokedex: When attacked, it launches horns in quick volleys. Its innards
               have never been seen.
       TMs: 6, 9, 10, 11, 12, 13, 14, 15, 20, 30, 31, 32, 33, 34, 36, 39, 44,
            47, 49, 50
@@ -1662,7 +1662,7 @@
      Height: 4' 3"
      Weight: 0.2 lbs.
      Evolution: Haunter (Level 25)
-     Pokédex: Almost invisible, this gaseous Pokémon cloaks the target and
+     Pokedex: Almost invisible, this gaseous Pokemon cloaks the target and
               puts it to sleep without notice.
      TMs: 6, 20, 21, 24, 25, 29, 31, 32, 34, 36, 42, 44, 46, 47, 50
      HMs: N/A
@@ -1678,7 +1678,7 @@
      Height: 5' 3"
      Weight: 0.2 lbs.
      Evolution: Gengar (must be traded to evolve)
-     Pokédex: Because of its ability to slip through block walls, it is said
+     Pokedex: Because of its ability to slip through block walls, it is said
               to be from another dimension.
      TMs: 6, 20, 21, 24, 25, 29, 31, 32, 34, 36, 42, 44, 46, 47, 50
      HMs: N/A
@@ -1694,7 +1694,7 @@
      Height: 4' 11"
      Weight: 89.0 lbs.
      Evolution: N/A
-     Pokédex: Under a full moon, this Pokémon likes to mimic the shadows of
+     Pokedex: Under a full moon, this Pokemon likes to mimic the shadows of
               people and laugh at their fright.
      TMs: 1, 5, 6, 8, 9, 10, 15, 17, 18, 19, 20, 21, 24, 25, 29, 31, 32, 34,
           35, 36, 40, 42, 44, 46, 47, 50
@@ -1711,7 +1711,7 @@
      Height: 28' 10"
      Weight: 463.0 lbs.
      Evolution: N/A
-     Pokédex: As it grows, the stone portions of its body harden to become
+     Pokedex: As it grows, the stone portions of its body harden to become
               similar to a diamond, but colored black.
      TMs: 6, 8, 9, 10, 20, 26, 27, 28, 31, 32, 34, 36, 40, 44, 47, 48, 50
      HMs: 4
@@ -1729,7 +1729,7 @@
      Height: 3' 3"
      Weight: 71.0 lbs.
      Evolution: Hypno (Level 26)
-     Pokédex: Puts enemies to sleep then eats their dreams. Occasionally gets
+     Pokedex: Puts enemies to sleep then eats their dreams. Occasionally gets
               sick from eating bad dreams.
      TMs: 1, 5, 6, 8, 9, 10, 17, 18, 19, 20, 29, 30, 31, 32, 33, 34, 35, 40,
           42, 44, 45, 46, 49, 50
@@ -1749,7 +1749,7 @@
      Height: 5' 3"
      Weight: 167.0 lbs.
      Evolution: N/A
-     Pokédex: When it locks eyes with an enemy, it will use a mix of PSI
+     Pokedex: When it locks eyes with an enemy, it will use a mix of PSI
               moves such as Hypnosis and Confusion.
      TMs: 1, 5, 6, 8, 9, 10, 15, 17, 18, 19, 20, 29, 30, 31, 32, 33, 34, 35,
           40, 42, 44, 45, 46, 49, 50
@@ -1772,7 +1772,7 @@
      Height: 1' 4"
      Weight: 14.0 lbs.
      Evolution: Kingler (Level 28)
-     Pokédex: Its pincers are not only powerful weapons, they are used for
+     Pokedex: Its pincers are not only powerful weapons, they are used for
               balance when walking sideways.
      TMs it can learn: 3, 6, 8, 9, 10, 11, 12, 13, 14, 20, 31, 32, 34, 44, 50
      HMs: 1, 3, 4
@@ -1791,7 +1791,7 @@
      Height: 4' 3"
      Weight: 132.0 lbs.
      Evolution: N/A
-     Pokédex: The large pincer has 10000 hp of crushing power. However, its
+     Pokedex: The large pincer has 10000 hp of crushing power. However, its
               huge size makes it unwieldy to use.
      TMs: 3, 6, 8, 9, 10, 11, 12, 13, 14, 15, 20, 31, 32, 34, 44, 50
      HMs: 1, 3, 4
@@ -1809,7 +1809,7 @@
       Height: 1' 8"
       Weight: 23.0 lbs.
       Evolution: Electrode (Level 30)
-      Pokédex: Usually found in power plants. Easily mistaken for a Poké
+      Pokedex: Usually found in power plants. Easily mistaken for a Poke
                Ball, they have zapped many people.
       TMs: 6, 9, 20, 24, 25, 30, 31, 32, 33, 34, 36, 39, 44, 45, 47, 50
       HMs: 5
@@ -1827,7 +1827,7 @@
       Height: 3' 11"
       Weight: 147.0 lbs.
       Evolution: N/A
-      Pokédex: It stores electric energy under very high pressure. It often
+      Pokedex: It stores electric energy under very high pressure. It often
                explodes with little or no provocation.
       TMs: 6, 9, 15, 20, 24, 25, 30, 31, 32, 33, 34, 36, 39, 40, 44, 45, 47,
            50
@@ -1846,7 +1846,7 @@
       Height: 1' 4"
       Weight: 6.0 lbs.
       Evolution: Exeggutor (use Leaf Stone)
-      Pokédex: Often mistaken for eggs. When disturbed, they quickly gather
+      Pokedex: Often mistaken for eggs. When disturbed, they quickly gather
                and attack in swarms.
       TMs: 6, 9, 10, 20, 29, 30, 31, 32, 33, 34, 36, 37, 44, 46, 47, 50
       HMs: N/A
@@ -1865,7 +1865,7 @@
       Height: 6' 7"
       Weight: 265.0 lbs.
       Evolution: N/A
-      Pokédex: Legend has it that on rare occasions, one of its heads will
+      Pokedex: Legend has it that on rare occasions, one of its heads will
                drop off and continue on as an Exeggcute.
       TMs: 6, 9, 10, 15, 20, 21, 22, 29, 30, 31, 32, 33, 34, 36, 37, 44, 46,
            47, 50
@@ -1880,8 +1880,8 @@
       Height: 1' 4"
       Weight: 14.0 lbs.
       Evolution: Marowak (Level 28)
-      Pokédex: Because it never removes its skull helmet, no one has even
-               seen this Pokémon's real face.
+      Pokedex: Because it never removes its skull helmet, no one has even
+               seen this Pokemon's real face.
       TMs: 1, 5, 6, 8, 9, 10, 11, 12, 13, 14, 17, 18, 19, 20, 26, 27, 28, 31,
            32, 34, 38, 40, 44, 50
       HMs: 4
@@ -1899,7 +1899,7 @@
       Height: 3' 3"
       Weight: 99.0 lbs.
       Evolution: N/A
-      Pokédex: The bone it holds is its key weapon. It throws the bone
+      Pokedex: The bone it holds is its key weapon. It throws the bone
                skillfully like a boomerang to KO targets.
       TMs: 1, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 26, 27, 28,
            31, 32, 34, 38, 40, 44, 50
@@ -1918,7 +1918,7 @@
       Height: 4' 11"
       Weight: 110.0 lbs.
       Evolution: N/A
-      Pokédex: When in a hurry, its legs lengthen progressively. It runs
+      Pokedex: When in a hurry, its legs lengthen progressively. It runs
                smoothly with extra long, loping strides.
       TMs: 1, 5, 6, 8, 9, 10, 17, 18, 19, 20, 31, 32, 34, 35, 39, 40, 44, 50
       HMs: 4
@@ -1936,7 +1936,7 @@
       Height: 4' 7"
       Weight: 111.0 lbs.
       Evolution: N/A
-      Pokédex: While apparently doing nothing, it fires punches in lightning
+      Pokedex: While apparently doing nothing, it fires punches in lightning
                fast volleys that are impossible to see.
       TMs: 1, 5, 6, 8, 9, 10, 17, 18, 19, 20, 31, 32, 34, 35, 39, 40, 44, 50
       HMs: 4
@@ -1954,7 +1954,7 @@
       Height: 3' 11"
       Weight: 144.0 lbs.
       Evolution: N/A
-      Pokédex: Its tongue can be extended like a chameleon's. It leaves a
+      Pokedex: Its tongue can be extended like a chameleon's. It leaves a
                tingling sensation when it licks enemies.
       TMs: 1, 3, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 24, 25,
            26, 27, 31, 32, 34, 38, 40, 44, 50
@@ -1973,7 +1973,7 @@
       Height: 2' 0"
       Weight: 2.0 lbs.
       Evolution: Weezing (Level 35)
-      Pokédex: Because it stores several kinds of toxic gases in it body, it
+      Pokedex: Because it stores several kinds of toxic gases in it body, it
                is prone to explode without warning.
       TMs: 6, 20, 24, 25, 31, 32, 34, 36, 38, 44, 47, 50
       HMs: N/A
@@ -1991,7 +1991,7 @@
       Height: 3' 11"
       Weight: 21.0 lbs.
       Evolution: N/A
-      Pokédex: Where two kinds of poison gases meet, 2 Koffings can fuse into
+      Pokedex: Where two kinds of poison gases meet, 2 Koffings can fuse into
                a Weezing over many years.
       TMs: 6, 15, 20, 24, 25, 31, 32, 34, 36, 38, 44, 47, 50
       HMs: N/A
@@ -2009,7 +2009,7 @@
       Height: 3' 3"
       Weight: 254.0 lbs.
       Evolution: Rhydon (Level 42)
-      Pokédex: Its massive bones are 1000 times harder than human bones. It
+      Pokedex: Its massive bones are 1000 times harder than human bones. It
                can easily knock a trailer flying.
       TMs: 6, 7, 8, 9, 10, 20, 24, 25, 26, 27, 28, 31, 32, 34, 38, 40, 44,
            48, 50
@@ -2028,7 +2028,7 @@
       Height: 6' 3"
       Weight: 265.0 lbs.
       Evolution: N/A
-      Pokédex: Protected by an armor-like hide, it is capable of living in
+      Pokedex: Protected by an armor-like hide, it is capable of living in
                molten lava of 3,600 degrees.
       TMs: 1, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24,
            25, 26, 27, 28, 31, 32, 34, 38, 40, 44, 48, 50
@@ -2047,7 +2047,7 @@
       Height: 3' 7"
       Weight: 76.0 lbs.
       Evolution: N/A
-      Pokédex: A rare and elusive Pokémon that is said to bring happiness to
+      Pokedex: A rare and elusive Pokemon that is said to bring happiness to
                those who manage to get it.
       TMs: 1, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 22, 24, 25,
            29, 30, 31, 32, 33, 34, 35, 37, 38, 40, 41, 44, 45, 46, 49, 50
@@ -2068,7 +2068,7 @@
       Height: 3' 3"
       Weight: 77.0 lbs.
       Evolution: N/A
-      Pokédex: The whole body is swathed with wide vines that are similar to
+      Pokedex: The whole body is swathed with wide vines that are similar to
                seaweed. Its vines shake as it walks.
       TMs: 3, 6, 8, 9, 10, 15, 20, 21, 22, 31, 32, 34, 40, 44, 50
       HMs: 1
@@ -2087,7 +2087,7 @@
       Height: 7' 3"
       Weight: 176.0 lbs.
       Evolution: N/A
-      Pokédex: The infant rarely ventures out of its mother's protective
+      Pokedex: The infant rarely ventures out of its mother's protective
                pouch until it is 3 years old.
       TMs: 1, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 24, 25, 26,
            27, 31, 32, 34, 38, 40, 44, 48, 50
@@ -2107,7 +2107,7 @@
       Height: 1' 4"
       Weight: 18.0 lbs.
       Evolution: Seadra (Level 32)
-      Pokédex: Known to shoot down flying bugs with precision blasts of ink
+      Pokedex: Known to shoot down flying bugs with precision blasts of ink
                from the surface of the water.
       TMs: 6, 9, 10, 11, 12, 13, 14, 20, 31, 32, 34, 39, 40, 44, 50
       HMs: 3
@@ -2125,7 +2125,7 @@
       Height: 3' 11"
       Weight: 55.0 lbs.
       Evolution: N/A
-      Pokédex: Capable of swimming backwards by rapidly flapping its wing-
+      Pokedex: Capable of swimming backwards by rapidly flapping its wing-
                like pectoral fins and stout tail.
       TMs: 6, 9, 10, 11, 12, 13, 14, 15, 20, 31, 32, 34, 39, 40, 44, 50
       HMs: 3
@@ -2145,7 +2145,7 @@
       Height: 2' 0"
       Weight: 33.0 lbs.
       Evolution: Seaking (Level 33)
-      Pokédex: Its tail fin billow like an elegant ballroom dress, giving it
+      Pokedex: Its tail fin billow like an elegant ballroom dress, giving it
                the nickname of the Water Queen.
       TMs: 6, 7, 9, 10, 11, 12, 13, 14, 20, 31, 32, 34, 39, 40, 44, 50
       HMs: 3
@@ -2165,7 +2165,7 @@
       Height: 4' 3"
       Weight: 86.0 lbs.
       Evolution: N/A
-      Pokédex: In the autumn spawning season, they can be seen swimming
+      Pokedex: In the autumn spawning season, they can be seen swimming
                powerfully up rivers and creeks.
       TMs: 6, 7, 9, 10, 11, 12, 13, 14, 15, 20, 31, 32, 34, 39, 40, 44, 50
       HMs: 3
@@ -2185,7 +2185,7 @@
       Height: 2' 7"
       Weight: 76.0 lbs.
       Evolution: Starmie (use Water Stone)
-      Pokédex: An enigmatic Pokémon that can effortlessly regenerate any
+      Pokedex: An enigmatic Pokemon that can effortlessly regenerate any
                appendage it loses in battle.
       TMs: 6, 9, 10, 11, 12, 13, 14, 20, 24, 25, 29, 30, 31, 32, 33, 34, 39,
            40, 44, 45, 46, 49, 50
@@ -2205,7 +2205,7 @@
       Height: 3' 7"
       Weight: 176.0 lbs.
       Evolution: N/A
-      Pokédex: Its central core glows with the seven colors of the rainbow.
+      Pokedex: Its central core glows with the seven colors of the rainbow.
                Some value the core as a gem.
       TMs: 6, 9, 10, 11, 12, 13, 14, 15, 20, 24, 25, 29, 30, 31, 32, 33, 34,
            39, 40, 44, 45, 46, 49, 50
@@ -2218,7 +2218,7 @@
       Height: 4' 3"
       Weight: 120.0 lbs.
       Evolution: N/A
-      Pokédex: If interrupted while it is miming, it will slap around the
+      Pokedex: If interrupted while it is miming, it will slap around the
                offender with its broad hands.
       TMs: 1, 5, 6, 8, 9, 10, 15, 17, 18, 19, 20, 22, 24, 25, 29, 30, 31, 32,
            33, 34, 35, 40, 44, 45, 46, 50
@@ -2237,7 +2237,7 @@
       Height: 4' 11"
       Weight: 123.0 lbs.
       Evolution: N/A
-      Pokédex: With ninja-like agility and speed, it can create the illusion
+      Pokedex: With ninja-like agility and speed, it can create the illusion
                that there is more than one.
       TMs: 3, 6, 9, 10, 15, 20, 31, 32, 34, 39, 40, 44, 50
       HMs: 1
@@ -2255,7 +2255,7 @@
       Height: 4' 7"
       Weight: 90.0 lbs.
       Evolution: N/A
-      Pokédex: It seductively wiggles its hips as it walks. It can cause
+      Pokedex: It seductively wiggles its hips as it walks. It can cause
                people to dance in unison with it.
       TMs: 1, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 29, 30, 31,
            32, 33, 34, 35, 40, 44, 46, 50
@@ -2275,7 +2275,7 @@
       Height: 3' 7"
       Weight: 66.0 lbs.
       Evolution: N/A
-      Pokédex: Normally found near power plants, they can wander away and
+      Pokedex: Normally found near power plants, they can wander away and
                cause major blackouts in cities.
       TMs: 1, 5, 6, 8, 9, 10, 15, 17, 18, 19, 20, 24, 25, 29, 30, 31, 32, 33,
            34, 35, 39, 40, 44, 45, 46, 50
@@ -2294,7 +2294,7 @@
       Height: 4' 3"
       Weight: 98.0 lbs.
       Evolution: N/A
-      Pokédex: Its body always burns with an orange glow that enables it to
+      Pokedex: Its body always burns with an orange glow that enables it to
                hide perfectly among flames.
       TMs: 1, 5, 6, 8, 9, 10, 15, 17, 18, 19, 20, 29, 30, 31, 32, 34, 35, 38,
            39, 40, 44, 46, 50
@@ -2314,7 +2314,7 @@
       Height: 4' 11"
       Weight: 121.0 lbs.
       Evolution: N/A
-      Pokédex: If it fails to crush the victim in its pincers, it will swing
+      Pokedex: If it fails to crush the victim in its pincers, it will swing
                it around and toss it hard.
       TMs: 3, 6, 8, 9, 10, 15, 17, 19, 20, 31, 32, 34, 44, 50
       HMs: 1, 4
@@ -2332,7 +2332,7 @@
       Height: 4' 7"
       Weight: 195.0 lbs.
       Evolution: N/A
-      Pokédex: When it targets an enemy, it charges furiously while whipping
+      Pokedex: When it targets an enemy, it charges furiously while whipping
                its body with its long tails.
       TMs: 6, 7, 8, 9, 10, 13, 14, 15, 20, 24, 25, 26, 27, 31, 32, 34, 38,
            40, 44, 50
@@ -2351,7 +2351,7 @@
       Height: 2' 11"
       Weight: 22.0 lbs.
       Evolution: Gyarados (Level 20)
-      Pokédex: In the distant past, it was somewhat stronger than the
+      Pokedex: In the distant past, it was somewhat stronger than the
                horribly weak descendants that exist today.
       TMs: N/A
       HMs: N/A
@@ -2364,7 +2364,7 @@
       Height: 21' 4"
       Weight: 518.0 lbs.
       Evolution: N/A
-      Pokédex: Rarely seen in the wild. Huge and vicious, it is capable of
+      Pokedex: Rarely seen in the wild. Huge and vicious, it is capable of
                destroying entire cities in a rage.
       TMs: 6, 8, 9, 10, 11, 12, 13, 14, 15, 20, 23, 24, 25, 31, 32, 33, 34,
            38, 40, 44, 50
@@ -2383,7 +2383,7 @@
       Height: 8' 2"
       Weight: 485.0 lbs.
       Evolution: N/A
-      Pokédex: A Pokémon that has been overhunted almost to extinction. It
+      Pokedex: A Pokemon that has been overhunted almost to extinction. It
                can ferry people across the water.
       TMs: 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 20, 22, 23, 24, 25, 29, 31,
            32, 33, 34, 40, 44, 46, 50
@@ -2403,7 +2403,7 @@
       Height: 1' 0"
       Weight: 9.0 lbs.
       Evolution: N/A
-      Pokédex: Capable of copying an enemy's genetic code to instantly
+      Pokedex: Capable of copying an enemy's genetic code to instantly
                transform itself into a duplicate of the enemy.
       TMs: N/A
       HMs: N/A
@@ -2416,7 +2416,7 @@
       Weight: 14.0 lbs.
       Evolution: Vaporeon (use Water Stone), Jolteon (use Thunder Stone),
                  Flareon (use Fire Stone)
-      Pokédex: Its genetic code is irregular. It may mutate if it is exposed
+      Pokedex: Its genetic code is irregular. It may mutate if it is exposed
                to radiation from element Stones.
       TMs: 6, 8, 9, 10, 20, 31, 32, 33, 34, 39, 40, 44, 50
       HMs: N/A
@@ -2433,7 +2433,7 @@
       Height: 3' 3"
       Weight: 64.0 lbs.
       Evolution: N/A
-      Pokédex: Lives close to water. Its long tail is ridged with a fin which
+      Pokedex: Lives close to water. Its long tail is ridged with a fin which
                is often mistaken for a mermaid's.
       TMs: 6, 8, 9, 10, 11, 12, 13, 14, 15, 20, 31, 32, 33, 34, 39, 40, 44,
            50
@@ -2455,7 +2455,7 @@
       Height: 2' 7"
       Weight: 54.0 lbs.
       Evolution: N/A
-      Pokédex: It accumulates negative ions in the atmosphere to blast out
+      Pokedex: It accumulates negative ions in the atmosphere to blast out
                10,000-volt lightning bolts.
       TMs: 6, 8, 9, 10, 15, 20, 24, 25, 31, 32, 33, 34, 39, 40, 44, 45, 50
       HMs: 5
@@ -2476,7 +2476,7 @@
       Height: 2' 11"
       Weight: 55.0 lbs.
       Evolution: N/A
-      Pokédex: When storing thermal energy in its body, its temperature could
+      Pokedex: When storing thermal energy in its body, its temperature could
                soar to over 1,600 degrees.
       TMs: 6, 8, 9, 10, 15, 20, 31, 32, 33, 34, 38, 39, 40, 44, 50
       HMs: N/A
@@ -2497,7 +2497,7 @@
       Height: 2' 7"
       Weight: 80.0 lbs.
       Evolution: N/A
-      Pokédex: A Pokémon that consists entirely of programming code. Capable
+      Pokedex: A Pokemon that consists entirely of programming code. Capable
                of moving freely in cyberspace.
       TMs: 6, 9, 10, 13, 14, 15, 20, 24, 25, 29, 30, 31, 32, 33, 34, 39, 40,
            44, 45, 46, 49, 50
@@ -2516,7 +2516,7 @@
       Height: 1' 4"
       Weight: 17.0 lbs.
       Evolution: Omastar (Level 40)
-      Pokédex: Although long extinct, in rare cases, it can be genetically
+      Pokedex: Although long extinct, in rare cases, it can be genetically
                resurrected from fossils.
       TMs: 6, 8, 9, 10, 11, 12, 13, 14, 20, 31, 32, 33, 34, 44, 50
       HMs: 3
@@ -2533,7 +2533,7 @@
       Height: 3' 3"
       Weight: 77.0 lbs.
       Evolution: N/A
-      Pokédex: A prehistoric Pokémon that died out when its heavy shell made
+      Pokedex: A prehistoric Pokemon that died out when its heavy shell made
                it impossible to catch prey.
       TMs: 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 19, 20, 31, 32, 33, 34,
            40, 44, 50
@@ -2551,7 +2551,7 @@
       Height: 1' 8"
       Weight: 25.0 lbs.
       Evolution: Kabutops (Level 40)
-      Pokédex: A Pokémon that was resurrected from a fossil found in what was
+      Pokedex: A Pokemon that was resurrected from a fossil found in what was
                once the ocean floor eons ago.
       TMs: 6, 8, 9, 10, 11, 12, 13, 14, 20, 31, 32, 33, 34, 44, 50
       HMs: 3
@@ -2568,7 +2568,7 @@
       Height: 4' 3"
       Weight: 89.0 lbs.
       Evolution: N/A
-      Pokédex: Its sleek shape is perfect for swimming. It slashes prey with
+      Pokedex: Its sleek shape is perfect for swimming. It slashes prey with
                its claws and drains the body fluids.
       TMs: 2, 3, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 17, 19, 20, 31, 32, 33,
            34, 40, 44, 50
@@ -2586,7 +2586,7 @@
       Height: 5' 11"
       Weight: 130.0 lbs.
       Evolution: N/A
-      Pokédex: A ferocious, prehistoric Pokémon that goes for the enemy's
+      Pokedex: A ferocious, prehistoric Pokemon that goes for the enemy's
                throat with its serrated saw-like fangs.
       TMs: 2, 4, 6, 9, 10, 15, 20, 23, 31, 32, 33, 34, 38, 39, 43, 44, 50
       HMs: 2
@@ -2603,7 +2603,7 @@
       Height: 6' 11"
       Weight: 1014.0 lbs.
       Evolution: N/A
-      Pokédex: Very lazy. Just eats and sleeps. As its rotund bulk builds, it
+      Pokedex: Very lazy. Just eats and sleeps. As its rotund bulk builds, it
                becomes steadily more slothful.
       TMs: 1, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 22, 24,
            25, 26, 27, 29, 31, 32, 33, 34, 35, 36, 38, 40, 44, 46, 48, 50
@@ -2622,7 +2622,7 @@
       Height: 5' 7"
       Weight: 122.0 lbs.
       Evolution: N/A
-      Pokédex: A legendary bird Pokémon that is said to appear to doomed
+      Pokedex: A legendary bird Pokemon that is said to appear to doomed
                people who are lost in icy mountains.
       TMs: 2, 4, 6, 9, 10, 11, 12, 13, 14, 15, 20, 31, 32, 33, 34, 39, 43,
            44, 50
@@ -2639,7 +2639,7 @@
       Height: 5' 3"
       Weight: 116.0 lbs.
       Evolution: N/A
-      Pokédex: A legendary bird Pokémon that is said to appear from clouds
+      Pokedex: A legendary bird Pokemon that is said to appear from clouds
                while dropping enormous lightning bolts.
       TMs: 2, 4, 6, 9, 10, 15, 20, 24, 25, 31, 32, 33, 34, 39, 43, 44, 45, 50
       HMs: 2, 5
@@ -2655,7 +2655,7 @@
       Height: 6' 7"
       Weight: 132.0 lbs.
       Evolution: N/A
-      Pokédex: Known as the legendary bird of fire. Every flap of its wings
+      Pokedex: Known as the legendary bird of fire. Every flap of its wings
                creates a dazzling flash of flames.
       TMs: 2, 4, 6, 9, 10, 15, 20, 31, 32, 33, 34, 38, 39, 43, 44, 50
       HMs: 2
@@ -2672,7 +2672,7 @@
       Height: 5' 11"
       Weight: 7.0 lbs.
       Evolution: Dragonair (Level 30)
-      Pokédex: Long considered a mythical Pokémon until recently when a small
+      Pokedex: Long considered a mythical Pokemon until recently when a small
                colony was found living underwater. 
       TMs: 6, 8, 9, 10, 11, 12, 13, 14, 20, 23, 24, 25, 31, 32, 33, 34, 38,
            39, 40, 44, 45, 50
@@ -2691,7 +2691,7 @@
       Height: 13' 1"
       Weight: 36.0 lbs.
       Evolution: Dragonite (Level 55)
-      Pokédex: A mystical Pokémon that exudes a gentle aura. Has the ability
+      Pokedex: A mystical Pokemon that exudes a gentle aura. Has the ability
                to change climate conditions.
       TMs: 6, 7, 8, 9, 10, 11, 12, 13, 14, 20, 23, 24, 25, 31, 32, 33, 34,
            38, 39, 40, 44, 45, 50
@@ -2710,7 +2710,7 @@
       Height: 7' 3"
       Weight: 463.0 lbs.
       Evolution: N/A
-      Pokédex: An extremely rarely seen marine Pokémon. Its intelligence is
+      Pokedex: An extremely rarely seen marine Pokemon. Its intelligence is
                said to match that of humans.
       TMs: 2, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 20, 23, 24, 25, 31, 32, 33,
            34, 38, 39, 40, 44, 45, 50
@@ -2729,7 +2729,7 @@
       Height: 6' 7"
       Weight: 269.0 lbs.
       Evolution: N/A
-      Pokédex: It was created by a scientist after years of horrific gene
+      Pokedex: It was created by a scientist after years of horrific gene
                splicing and DNA engineering experiments.
       TMs: 1, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 22, 24,
            25, 29, 30, 31, 32, 33, 34, 35, 36, 38, 40, 44, 45, 46, 49, 50
@@ -2749,7 +2749,7 @@
       Height: 1' 4"
       Weight: 9.0 lbs.
       Evolution: N/A
-      Pokédex: So rare that it is still said to be a mirage by many experts.
+      Pokedex: So rare that it is still said to be a mirage by many experts.
                Only a few people have seen it worldwide. 
       TMs: ALL
       HMs: ALL

@@ -1,0 +1,8 @@
+number:72
+name:Tentacool
+type_primary:Water
+type_secondary:Poison
+Height:2' 11"
+Weight:100.0 lbs.
+Evolution:Tentacruel (Level 30)
+Pokedex:Drifts in shallow seas. Anglers who hook them by accident are often punished by its stinging acid.

@@ -1,0 +1,8 @@
+number:60
+name:Poliwag
+type_primary:Water
+type_secondary:
+Height:2' 0"
+Weight:27.0 lbs.
+Evolution:Poliwhirl (Level 25)
+Pokedex:Its newly grown legs prevent it from running. It appears to prefer swimming than trying to stand.

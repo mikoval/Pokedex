@@ -1,0 +1,8 @@
+number:95
+name:Onix
+type_primary:Rock
+type_secondary:Ground
+Height:28' 10"
+Weight:463.0 lbs.
+Evolution:N/A
+Pokedex:As it grows, the stone portions of its body harden to become similar to a diamond, but colored black.

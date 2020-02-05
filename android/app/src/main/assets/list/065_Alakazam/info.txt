@@ -1,0 +1,8 @@
+number:65
+name:Alakazam
+type_primary:Psychic
+type_secondary:
+Height:4' 11"
+Weight:106.0 lbs.
+Evolution:N/A
+Pokedex:Its brain can outperform a supercomputer. Its intelligence quotient is said to be 5,000.

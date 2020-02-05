@@ -1,0 +1,8 @@
+number:17
+name:Pidgeotto
+type_primary:Normal
+type_secondary:Flying
+Height:3' 7"
+Weight:66.0 lbs.
+Evolution:Pidgeot (Level 36)
+Pokedex:Very protective of its sprawling territorial area, this Pokemon will fiercely peck at any intruder.

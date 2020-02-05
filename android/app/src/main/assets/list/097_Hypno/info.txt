@@ -1,0 +1,8 @@
+number:97
+name:Hypno
+type_primary:Psychic
+type_secondary:
+Height:5' 3"
+Weight:167.0 lbs.
+Evolution:N/A
+Pokedex:When it locks eyes with an enemy, it will use a mix of PSI moves such as Hypnosis and Confusion.

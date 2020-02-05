@@ -1,0 +1,8 @@
+number:5
+name:Charmeleon
+type_primary:Fire
+type_secondary:
+Height:3' 7"
+Weight:42.0 lbs.
+Evolution:Charizard (Level 36)
+Pokedex:When it swings its burning tail, it elevates the temperature to unbearably high levels.

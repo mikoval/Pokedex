@@ -1,0 +1,8 @@
+number:137
+name:Porygon
+type_primary:Normal
+type_secondary:
+Height:2' 7"
+Weight:80.0 lbs.
+Evolution:N/A
+Pokedex:A Pokemon that consists entirely of programming code. Capable of moving freely in cyberspace.

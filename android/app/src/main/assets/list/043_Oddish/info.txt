@@ -1,0 +1,8 @@
+number:43
+name:Oddish
+type_primary:Grass
+type_secondary:Poison
+Height:1' 8"
+Weight:12.0 lbs.
+Evolution:Gloom (Level 21)
+Pokedex:During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds.

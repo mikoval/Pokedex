@@ -1,0 +1,8 @@
+number:100
+name:Voltorb
+type_primary:Electric
+type_secondary:
+Height:1' 8"
+Weight:23.0 lbs.
+Evolution:Electrode (Level 30)
+Pokedex:Usually found in power plants. Easily mistaken for a Poke Ball, they have zapped many people.

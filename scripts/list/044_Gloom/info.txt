@@ -1,0 +1,8 @@
+number:44
+name:Gloom
+type_primary:Grass
+type_secondary:Poison
+Height:2' 7"
+Weight:19.0 lbs.
+Evolution:Vileplume (use Leaf Stone)
+Pokedex:The fluid that oozes from its mouth isn't drool. It is a nectar that is used to attract prey.

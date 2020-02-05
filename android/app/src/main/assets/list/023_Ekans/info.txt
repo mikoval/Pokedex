@@ -1,0 +1,8 @@
+number:23
+name:Ekans
+type_primary:Poison
+type_secondary:
+Height:6' 7"
+Weight:15.0 lbs.
+Evolution:Arbok (Level 22)
+Pokedex:Moves silently and stealthily. Eats the eggs of birds, such as Pidgey and Spearow, whole.

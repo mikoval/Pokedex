@@ -1,0 +1,8 @@
+number:142
+name:Aerodactyl
+type_primary:Rock
+type_secondary:Flying
+Height:5' 11"
+Weight:130.0 lbs.
+Evolution:N/A
+Pokedex:A ferocious, prehistoric Pokemon that goes for the enemy's throat with its serrated saw-like fangs.

@@ -1,0 +1,8 @@
+number:52
+name:Meowth
+type_primary:Normal
+type_secondary:
+Height:1' 4"
+Weight:9.0 lbs.
+Evolution:Persian (Level 28)
+Pokedex:Adores circular objects. Wanders the streets on a nightly basis to look for dropped loose change.

@@ -1,0 +1,8 @@
+number:75
+name:Graveler
+type_primary:Rock
+type_secondary:Ground
+Height:3' 3"
+Weight:232.0 lbs.
+Evolution:Golem (must be traded to evolve)
+Pokedex:Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction.

@@ -1,0 +1,8 @@
+number:110
+name:Weezing
+type_primary:Poison
+type_secondary:
+Height:3' 11"
+Weight:21.0 lbs.
+Evolution:N/A
+Pokedex:Where two kinds of poison gases meet, 2 Koffings can fuse into a Weezing over many years.

@@ -1,0 +1,8 @@
+number:131
+name:Lapras
+type_primary:Water
+type_secondary:Ice
+Height:8' 2"
+Weight:485.0 lbs.
+Evolution:N/A
+Pokedex:A Pokemon that has been overhunted almost to extinction. It can ferry people across the water.

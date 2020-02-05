@@ -1,0 +1,8 @@
+number:20
+name:Raticate
+type_primary:Normal
+type_secondary:
+Height:2' 4"
+Weight:41.0 lbs.
+Evolution:N/A
+Pokedex:It uses its whiskers to maintain balance. It apparently slows down if they are cut off.

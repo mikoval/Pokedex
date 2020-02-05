@@ -1,0 +1,8 @@
+number:4
+name:Charmander
+type_primary:Fire
+type_secondary:
+Height:2' 0"
+Weight:19.0 lbs.
+Evolution:Charmeleon (Level 16)
+Pokedex:Obviously prefers hot places. When it rains, steam is said to spout from the tip of its tail.

@@ -1,0 +1,8 @@
+number:91
+name:Cloyster
+type_primary:Water
+type_secondary:Ice
+Height:4' 11"
+Weight:292.0 lbs.
+Evolution:N/A
+Pokedex:When attacked, it launches horns in quick volleys. Its innards have never been seen.

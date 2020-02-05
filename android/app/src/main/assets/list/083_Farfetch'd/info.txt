@@ -1,0 +1,8 @@
+number:83
+name:Farfetch'd
+type_primary:Normal
+type_secondary:Flying
+Height:2' 7"
+Weight:33.0 lbs.
+Evolution:N/A
+Pokedex:The sprig of green onions it holds is its weapon. It is used much like a metal sword.

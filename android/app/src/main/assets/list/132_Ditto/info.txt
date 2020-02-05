@@ -1,0 +1,8 @@
+number:132
+name:Ditto
+type_primary:Normal
+type_secondary:
+Height:1' 0"
+Weight:9.0 lbs.
+Evolution:N/A
+Pokedex:Capable of copying an enemy's genetic code to instantly transform itself into a duplicate of the enemy.

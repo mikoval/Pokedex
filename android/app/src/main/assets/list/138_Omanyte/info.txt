@@ -1,0 +1,8 @@
+number:138
+name:Omanyte
+type_primary:Rock
+type_secondary:Water
+Height:1' 4"
+Weight:17.0 lbs.
+Evolution:Omastar (Level 40)
+Pokedex:Although long extinct, in rare cases, it can be genetically resurrected from fossils.

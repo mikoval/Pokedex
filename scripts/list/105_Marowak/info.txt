@@ -1,0 +1,8 @@
+number:105
+name:Marowak
+type_primary:Ground
+type_secondary:
+Height:3' 3"
+Weight:99.0 lbs.
+Evolution:N/A
+Pokedex:The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to KO targets.

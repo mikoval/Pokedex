@@ -1,0 +1,8 @@
+number:139
+name:Omastar
+type_primary:Rock
+type_secondary:Water
+Height:3' 3"
+Weight:77.0 lbs.
+Evolution:N/A
+Pokedex:A prehistoric Pokemon that died out when its heavy shell made it impossible to catch prey.

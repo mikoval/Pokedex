@@ -1,0 +1,8 @@
+number:99
+name:Kingler
+type_primary:Water
+type_secondary:
+Height:4' 3"
+Weight:132.0 lbs.
+Evolution:N/A
+Pokedex:The large pincer has 10000 hp of crushing power. However, its huge size makes it unwieldy to use.

@@ -1,0 +1,8 @@
+number:26
+name:Raichu
+type_primary:Electric
+type_secondary:
+Height:2' 7"
+Weight:66.0 lbs.
+Evolution:N/A
+Pokedex:Its long tail serves as a ground to protect itself from its own high voltage power.

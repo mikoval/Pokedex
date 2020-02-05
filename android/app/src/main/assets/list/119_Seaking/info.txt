@@ -1,0 +1,8 @@
+number:119
+name:Seaking
+type_primary:Water
+type_secondary:
+Height:4' 3"
+Weight:86.0 lbs.
+Evolution:N/A
+Pokedex:In the autumn spawning season, they can be seen swimming powerfully up rivers and creeks.

@@ -1,0 +1,8 @@
+number:6
+name:Charizard
+type_primary:Fire
+type_secondary:
+Height:5' 7"
+Weight:200.0 lbs.
+Evolution:N/A
+Pokedex:Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally.

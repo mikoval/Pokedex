@@ -1,0 +1,8 @@
+number:24
+name:Arbok
+type_primary:Poison
+type_secondary:
+Height:11' 6"
+Weight:143.0 lbs.
+Evolution:N/A
+Pokedex:It is rumored that the ferocious warning markings on its belly differ from area to area.

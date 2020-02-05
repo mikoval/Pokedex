@@ -1,0 +1,8 @@
+number:73
+name:Tentacruel
+type_primary:Water
+type_secondary:Poison
+Height:5' 3"
+Weight:121.0 lbs.
+Evolution:N/A
+Pokedex:The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey.

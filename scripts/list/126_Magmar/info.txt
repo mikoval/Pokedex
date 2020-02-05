@@ -1,0 +1,8 @@
+number:126
+name:Magmar
+type_primary:Fire
+type_secondary:
+Height:4' 3"
+Weight:98.0 lbs.
+Evolution:N/A
+Pokedex:Its body always burns with an orange glow that enables it to hide perfectly among flames.

@@ -1,0 +1,8 @@
+number:140
+name:Kabuto
+type_primary:Rock
+type_secondary:Water
+Height:1' 8"
+Weight:25.0 lbs.
+Evolution:Kabutops (Level 40)
+Pokedex:A Pokemon that was resurrected from a fossil found in what was once the ocean floor eons ago.

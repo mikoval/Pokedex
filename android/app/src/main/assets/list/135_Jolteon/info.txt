@@ -1,0 +1,8 @@
+number:135
+name:Jolteon
+type_primary:Electric
+type_secondary:
+Height:2' 7"
+Weight:54.0 lbs.
+Evolution:N/A
+Pokedex:It accumulates negative ions in the atmosphere to blast out 10,000-volt lightning bolts.

@@ -1,0 +1,8 @@
+number:127
+name:Pinsir
+type_primary:Bug
+type_secondary:
+Height:4' 11"
+Weight:121.0 lbs.
+Evolution:N/A
+Pokedex:If it fails to crush the victim in its pincers, it will swing it around and toss it hard.

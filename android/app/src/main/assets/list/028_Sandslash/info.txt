@@ -1,0 +1,8 @@
+number:28
+name:Sandslash
+type_primary:Ground
+type_secondary:
+Height:3' 3"
+Weight:65.0 lbs.
+Evolution:N/A
+Pokedex:Curls up into a ball when threatened. It can roll while curled up to attack or escape.

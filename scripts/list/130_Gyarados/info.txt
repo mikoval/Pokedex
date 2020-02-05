@@ -1,0 +1,8 @@
+number:130
+name:Gyarados
+type_primary:Water
+type_secondary:Flying
+Height:21' 4"
+Weight:518.0 lbs.
+Evolution:N/A
+Pokedex:Rarely seen in the wild. Huge and vicious, it is capable of destroying entire cities in a rage.

@@ -1,0 +1,8 @@
+number:81
+name:Magnemite
+type_primary:Electric
+type_secondary:
+Height:1' 0"
+Weight:13.0 lbs.
+Evolution:Magneton (Level 30)
+Pokedex:Uses anti-gravity to stay suspended. Appears without warning and uses Thunder Wave and similar moves.

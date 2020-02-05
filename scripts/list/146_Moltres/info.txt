@@ -1,0 +1,8 @@
+number:146
+name:Moltres
+type_primary:Fire
+type_secondary:Flying
+Height:6' 7"
+Weight:132.0 lbs.
+Evolution:N/A
+Pokedex:Known as the legendary bird of fire. Every flap of its wings creates a dazzling flash of flames.

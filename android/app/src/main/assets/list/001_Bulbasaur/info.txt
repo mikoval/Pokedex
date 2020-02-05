@@ -1,0 +1,8 @@
+number:1
+name:Bulbasaur
+type_primary:Grass
+type_secondary:Poison
+Height:2' 4"
+Weight:15.0 lbs.
+Evolution:Ivysaur (Level 16)
+Pokedex:A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokemon.

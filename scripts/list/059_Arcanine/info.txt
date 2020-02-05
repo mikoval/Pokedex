@@ -1,0 +1,8 @@
+number:59
+name:Arcanine
+type_primary:Fire
+type_secondary:
+Height:6' 3"
+Weight:342.0 lbs.
+Evolution:N/A
+Pokedex:A Pokemon that has been admired since the past for its beauty. It runs agilely as if on wings.

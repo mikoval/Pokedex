@@ -1,0 +1,8 @@
+number:80
+name:Slowbro
+type_primary:Water
+type_secondary:Psychic
+Height:5' 3"
+Weight:173.0 lbs.
+Evolution:N/A
+Pokedex:The Shellder that is latched onto Slowpoke's tail is said to feed on the host's left over scraps.

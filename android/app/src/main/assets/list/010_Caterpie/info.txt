@@ -1,0 +1,8 @@
+number:10
+name:Caterpie
+type_primary:Bug
+type_secondary:
+Height:1' 0"
+Weight:6.0 lbs.
+Evolution:Metapod (Level 7)
+Pokedex:Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.

@@ -1,0 +1,8 @@
+number:129
+name:Magikarp
+type_primary:Water
+type_secondary:
+Height:2' 11"
+Weight:22.0 lbs.
+Evolution:Gyarados (Level 20)
+Pokedex:In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.

@@ -1,0 +1,8 @@
+number:49
+name:Venomoth
+type_primary:Bug
+type_secondary:Poison
+Height:4' 11"
+Weight:28.0 lbs.
+Evolution:N/A
+Pokedex:The dust-like scales covering its wings are color coded to indicate the kinds of poison it has.

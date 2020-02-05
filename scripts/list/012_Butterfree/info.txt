@@ -1,0 +1,8 @@
+number:12
+name:Butterfree
+type_primary:Bug
+type_secondary:Flying
+Height:3' 7"
+Weight:71.0 lbs.
+Evolution:N/A
+Pokedex:In battle, it flaps its wings at high speed to release highly toxic dust into the air.

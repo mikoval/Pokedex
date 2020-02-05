@@ -1,0 +1,8 @@
+number:151
+name:Mew
+type_primary:Psychic
+type_secondary:
+Height:1' 4"
+Weight:9.0 lbs.
+Evolution:N/A
+Pokedex:So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.

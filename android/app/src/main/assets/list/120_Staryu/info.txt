@@ -1,0 +1,8 @@
+number:120
+name:Staryu
+type_primary:Water
+type_secondary:
+Height:2' 7"
+Weight:76.0 lbs.
+Evolution:Starmie (use Water Stone)
+Pokedex:An enigmatic Pokemon that can effortlessly regenerate any appendage it loses in battle.

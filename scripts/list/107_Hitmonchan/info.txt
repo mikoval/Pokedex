@@ -1,0 +1,8 @@
+number:107
+name:Hitmonchan
+type_primary:Fighting
+type_secondary:
+Height:4' 7"
+Weight:111.0 lbs.
+Evolution:N/A
+Pokedex:While apparently doing nothing, it fires punches in lightning fast volleys that are impossible to see.

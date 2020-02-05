@@ -1,0 +1,8 @@
+number:46
+name:Paras
+type_primary:Bug
+type_secondary:Grass
+Height:1' 0"
+Weight:12.0 lbs.
+Evolution:Parasect (Level 24)
+Pokedex:Burrows to suck tree roots. The mushrooms on its back grow by drawing nutrients from the bug host.

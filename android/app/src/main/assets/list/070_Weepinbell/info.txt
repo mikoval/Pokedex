@@ -1,0 +1,8 @@
+number:70
+name:Weepinbell
+type_primary:Grass
+type_secondary:Poison
+Height:3' 3"
+Weight:14.0 lbs.
+Evolution:Victreebel (use Leaf Stone)
+Pokedex:It spits out Poison Powder to immobilize the enemy and then finishes it with a spray of Acid.
