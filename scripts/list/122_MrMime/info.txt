@@ -1,0 +1,8 @@
+number:122
+name:MrMime
+type_primary:Psychic
+type_secondary:
+Height:4' 3"
+Weight:120.0 lbs.
+Evolution:N/A
+Pokedex:If interrupted while it is miming, it will slap around the offender with its broad hands.

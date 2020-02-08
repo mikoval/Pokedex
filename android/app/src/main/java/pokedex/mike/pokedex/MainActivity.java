@@ -4,17 +4,24 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+import android.app.Activity;
 import android.content.res.AssetManager;
 import android.os.Bundle;
 import android.util.Log;
+import android.view.View;
+import android.view.Window;
+import android.widget.Button;
+import android.widget.ImageView;
+import android.widget.Toast;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
+import java.util.List;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends ToolbarActivity {
 
     private PokemonScroller pokemonScroller;
     ArrayList<PokemonWrapper> pokemonList;
@@ -22,10 +29,27 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+
         pokemonList = loadPokemon();
         createPokemonScroller(pokemonList);
 
+        ImageView v = (ImageView) findViewById(R.id.image_view);
+        v.setImageBitmap(image);
+
+        for(int i = 0; i < pokemonList.size(); i++){
+            PokemonWrapper p = pokemonList.get(i);
+            final List<Classifier.Recognition> results =
+                    classifier.recognizeImage(p.image, 0);
+            Classifier.Recognition first = results.get(0);
+            Classifier.Recognition second = results.get(1);
+            Classifier.Recognition third = results.get(2);
+
+            Log.d("FINDME: " , String.format("%s = %s : %f, %s : %f, %s : %f",
+                    p.name,
+                    first.getTitle(),first.getConfidence(),
+                    second.getTitle(), second.getConfidence(),
+                    third.getTitle(), third.getConfidence()));
+        }
 
     }
 
@@ -46,34 +70,11 @@ public class MainActivity extends AppCompatActivity {
         try {
             String[] dirs = assetManager.list("list");
             for(int i = 0; i < dirs.length; i++){
-                Log.d("FINDME: LOADING :" , dirs[i]);
+                //Log.d("FINDME: LOADING :" , dirs[i]);
                 String baseDir = "list/" + dirs[i];
-                String[] files = assetManager.list(baseDir);
-                for(int j = 0; j < files.length; j++) {
-                    Log.d("FINDME: EXECUTING: " , files[j] + " == info.txt ? " + (files[j].equals("info.txt")));
-                    if(files[j].equals("info.txt")) {
-                        String filePath = baseDir + "/info.txt";
-                        Log.d("FINDME: ", filePath);
-                        BufferedReader reader = new BufferedReader(
-                                new InputStreamReader(assetManager.open( filePath)));
-                        String mLine;
+                PokemonWrapper pokemon = new PokemonWrapper(baseDir, this);
+                pokemonList.add((pokemon));
 
-                        String name = "";
-                        int number = 0;
-                        int type1 = 0;
-                        int type2 = 0;
-                        while ((mLine = reader.readLine()) != null) {
-                            String arr[] = mLine.split(":");
-                            if(arr.length !=  2) {continue;}
-                            if(arr[0].equals("name")) {name = arr[1];}
-                            if(arr[0].equals("number")) {number = Integer.parseInt(arr[1]);}
-                            if(arr[0].equals("type_primary")) {type1 = PokemonType.parseInt(arr[1]);}
-                            if(arr[0].equals("type_secondary")) {type2 = PokemonType.parseInt(arr[1]);}
-                        }
-                        PokemonWrapper pokemon = new PokemonWrapper(filePath, number, name, type1, type2);
-                        pokemonList.add((pokemon));
-                    }
-                }
 
             }
         }

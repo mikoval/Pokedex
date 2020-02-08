@@ -2,11 +2,13 @@ import os
 import shutil
 
 input_file = "data.txt"
+input_image_dir = "images/gen4"
 output = "list"
 
-fp = open(input_file, 'r')
+fp= open(input_file, 'r')
 
-    
+image_files = os.listdir(input_image_dir)
+
 if os.path.exists(output):
     shutil.rmtree(output)
     #os.rmdir(output)
@@ -86,6 +88,9 @@ while True:
     f.write(pokemon_general)
     f.close() 
 
+    in_img = os.path.join(input_image_dir, "{}.png".format(number))
+    out_img = os.path.join(pokemon_dir, "img.png")
+    shutil.copyfile(in_img, out_img)
 
     if len(line) is 0:
         break

@@ -1,8 +1,0 @@
-number:29
-name:Nidoran
-type_primary:
-type_secondary:
-Height:1' 4"
-Weight:15.0 lbs.
-Evolution:Nidorina (Level 16)
-Pokedex:Although small, its venomous barbs render this Pokemon dangerous. The female has smaller horns.

@@ -516,7 +516,7 @@
        Swift (Normal) - Level 36
        Fury Swipes (Normal) - Level 47
 
-29. Nidoran F (Poison)
+29. Nidoran(F) (Poison)
      Found: Safari Zone, Route 22
      Height: 1' 4"
      Weight: 15.0 lbs.
@@ -572,7 +572,7 @@
        Poison Sting (Poison) - N/A
        Body Slam (Normal) - Level 23
 
-32. Nidoran M (Poison)
+32. Nidoran(M) (Poison)
      Found: Safari Zone, Route 22
      Height: 1' 8"
      Weight: 20.0 lbs.
@@ -1496,7 +1496,7 @@
        Swift (Normal) - Level 46
        Screech (Normal) - Level 54
 
-83. Farfetch'd (Normal/Flying)
+83. Farfetchd (Normal/Flying)
      Found: Vermilion City
      Height: 2' 7"
      Weight: 33.0 lbs.
@@ -2213,7 +2213,7 @@
       Abilities:
         (Cannot learn any abilities on its own.)
 
-122. Mr.Mime (Psychic)
+122. MrMime (Psychic)
       Found: Route 2
       Height: 4' 3"
       Weight: 120.0 lbs.

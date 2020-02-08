@@ -22,7 +22,7 @@ public class PokemonType {
 
     static int parseInt(String type) {
         type = type.toLowerCase();
-        Log.d("FINDME: " , "GETTING TYPE: " + type);
+        //Log.d("FINDME: " , "GETTING TYPE: " + type);
         if(type.equals("bug")) { return Bug; }
         if(type.equals("dragon")) { return Dragon; }
         if(type.equals("electric")) { return Electric; }
@@ -62,6 +62,26 @@ public class PokemonType {
         if(type == Water) { return "Water"; }
 
         return "UNKNOWN";
+    }
+
+    static int getColor(int type) {
+        if(type == Bug) { return 0xFFC4EE8D; }
+        if(type == Dragon) { return 0xFF7F00FF; }
+        if(type == Electric) { return 0xFFFFFF33; }
+        if(type == Fighting) { return 0xFF9B3400; }
+        if(type == Fire) { return 0xFFFF0000; }
+        if(type == Flying) { return 0xFF66B2FF; }
+        if(type == Ghost) { return 0xFF004C99; }
+        if(type == Grass) { return 0xFF00CC00; }
+        if(type == Ground) { return 0xFFFFCC7D; }
+        if(type == Ice) { return 0xFF6666FF; }
+        if(type == Normal) { return 0xFFA0A0A0; }
+        if(type == Poison) { return 0xFF990099; }
+        if(type == Psychic) { return 0xFFFF3399; }
+        if(type == Rock) { return 0xFFBDA47E; }
+        if(type == Water) { return 0xFF3333FF; }
+
+        return 0xFF000000;
     }
 
 
