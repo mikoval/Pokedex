@@ -20,7 +20,12 @@ import android.graphics.Bitmap;
 import android.graphics.RectF;
 import android.os.SystemClock;
 import android.os.Trace;
+import android.util.Log;
+
 import java.io.IOException;
+import java.nio.ByteBuffer;
+import java.nio.ByteOrder;
+import java.nio.FloatBuffer;
 import java.nio.MappedByteBuffer;
 import java.util.ArrayList;
 import java.util.Comparator;
@@ -88,7 +93,7 @@ public abstract class Classifier {
     private List<String> labels;
 
     /** Input image TensorBuffer. */
-    private TensorImage inputImageBuffer;
+    public TensorImage inputImageBuffer;
 
     /** Output probability TensorBuffer. */
     private final TensorBuffer outputProbabilityBuffer;
@@ -236,6 +241,10 @@ public abstract class Classifier {
         Trace.beginSection("loadImage");
         long startTimeForLoadImage = SystemClock.uptimeMillis();
         inputImageBuffer = loadImage(bitmap, sensorOrientation);
+        FloatBuffer buffer = inputImageBuffer.getBuffer().order(ByteOrder.LITTLE_ENDIAN).asFloatBuffer();
+        for(int i = 0; i < 12; i++){
+           // Log.d("FINDME", "VAL " + i + " = " +  buffer.get(i));
+        }
         long endTimeForLoadImage = SystemClock.uptimeMillis();
         Trace.endSection();
         LOGGER.v("Timecost to load the image: " + (endTimeForLoadImage - startTimeForLoadImage));
@@ -247,6 +256,7 @@ public abstract class Classifier {
         long endTimeForReference = SystemClock.uptimeMillis();
         Trace.endSection();
         LOGGER.v("Timecost to run model inference: " + (endTimeForReference - startTimeForReference));
+
 
         // Gets the map of label and probability.
         Map<String, Float> labeledProbability =
@@ -286,8 +296,12 @@ public abstract class Classifier {
     }
 
     /** Loads input image, and applies preprocessing. */
+
+
+
     private TensorImage loadImage(final Bitmap bitmap, int sensorOrientation) {
         // Loads bitmap into a TensorImage.
+
         inputImageBuffer.load(bitmap);
 
         // Creates processor for the TensorImage.
@@ -298,8 +312,8 @@ public abstract class Classifier {
                 new ImageProcessor.Builder()
                         .add(new ResizeWithCropOrPadOp(cropSize, cropSize))
                         .add(new ResizeOp(imageSizeX, imageSizeY, ResizeMethod.BILINEAR))
-                        .add(new Rot90Op(numRoration))
-                        .add(getPreprocessNormalizeOp())
+                        //.add(new Rot90Op(numRoration))
+                        //.add(getPreprocessNormalizeOp())
                         .build();
         return imageProcessor.process(inputImageBuffer);
     }

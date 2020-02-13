@@ -6,12 +6,19 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import android.app.Activity;
 import android.content.res.AssetManager;
+import android.graphics.Bitmap;
+import android.graphics.Canvas;
+import android.graphics.Color;
+import android.os.AsyncTask;
 import android.os.Bundle;
+import android.os.Handler;
+import android.os.Looper;
 import android.util.Log;
 import android.view.View;
 import android.view.Window;
 import android.widget.Button;
 import android.widget.ImageView;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import java.io.BufferedReader;
@@ -33,23 +40,97 @@ public class MainActivity extends ToolbarActivity {
         pokemonList = loadPokemon();
         createPokemonScroller(pokemonList);
 
-        ImageView v = (ImageView) findViewById(R.id.image_view);
-        v.setImageBitmap(image);
 
-        for(int i = 0; i < pokemonList.size(); i++){
-            PokemonWrapper p = pokemonList.get(i);
-            final List<Classifier.Recognition> results =
-                    classifier.recognizeImage(p.image, 0);
-            Classifier.Recognition first = results.get(0);
-            Classifier.Recognition second = results.get(1);
-            Classifier.Recognition third = results.get(2);
+       //
+        // testTensorflow();
 
-            Log.d("FINDME: " , String.format("%s = %s : %f, %s : %f, %s : %f",
-                    p.name,
-                    first.getTitle(),first.getConfidence(),
-                    second.getTitle(), second.getConfidence(),
-                    third.getTitle(), third.getConfidence()));
+    }
+
+    public void testTensorflow() {
+        new Thread(new Runnable() {
+            public void run() {
+                int wrong = 0;
+                int total = 0;
+                for(int i = 0; i < pokemonList.size(); i++){
+                    final PokemonWrapper p = pokemonList.get(i);
+
+
+                    Bitmap input = p.image.copy(p.image.getConfig(), true);
+                    input.eraseColor(Color.WHITE);
+                    Canvas canvas = new Canvas(input);
+                    canvas.drawBitmap(p.image, 0f, 0f, null);
+                    final List<Classifier.Recognition> results =
+                            classifier.recognizeImage(input, 0);
+                    final Classifier.Recognition first = results.get(0);
+                    Classifier.Recognition second = results.get(1);
+                    Classifier.Recognition third = results.get(2);
+
+                    String pokemon = p.directory.split("/")[1].trim();
+                    total++;
+                    if(!pokemon.trim().equals(first.getTitle().trim())) {
+                        wrong++;
+                        Log.d("FINDME: " , String.format("%s = %s : %f, %s : %f, %s : %f",
+                                p.directory,
+                                first.getTitle(),first.getConfidence(),
+                                second.getTitle(), second.getConfidence(),
+                                third.getTitle(), third.getConfidence()));
+                    }
+
+
+
+
+                    // Get a handler that can be used to post to the main thread
+                    Handler mainHandler = new Handler(Looper.getMainLooper());
+
+                    Runnable myRunnable = new Runnable() {
+                        @Override
+                        public void run() {
+                            ImageView v = (ImageView) findViewById(R.id.image_view);
+                            v.setImageBitmap(classifier.inputImageBuffer.getBitmap());
+                            TextView t = (TextView) findViewById(R.id.text_view);
+                            t.setText(p.name + " , " + first.getTitle() + ", " + first.getConfidence());
+                        } // This is your code
+                    };
+                    mainHandler.post(myRunnable);
+
+                }
+                Log.d("FINDME", "GOT WRONG : " + wrong + "/" + total);
+            }
+        }).start();
+
+    }
+
+    public static Bitmap createTrimmedBitmap(Bitmap bmp) {
+        int imgHeight = bmp.getHeight();
+        int imgWidth  = bmp.getWidth();
+        int smallX=0,largeX=imgWidth,smallY=0,largeY=imgHeight;
+        int left=imgWidth,right=imgWidth,top=imgHeight,bottom=imgHeight;
+        for(int i=0;i<imgWidth;i++)
+        {
+            for(int j=0;j<imgHeight;j++)
+            {
+                if(bmp.getPixel(i, j) != Color.TRANSPARENT){
+                    if((i-smallX)<left){
+                        left=(i-smallX);
+                    }
+                    if((largeX-i)<right)
+                    {
+                        right=(largeX-i);
+                    }
+                    if((j-smallY)<top)
+                    {
+                        top=(j-smallY);
+                    }
+                    if((largeY-j)<bottom)
+                    {
+                        bottom=(largeY-j);
+                    }
+                }
+            }
         }
+        bmp=Bitmap.createBitmap(bmp,left,top,imgWidth-left-right, imgHeight-top-bottom);
+
+        return bmp;
 
     }
 

@@ -12,6 +12,7 @@ import android.util.Log;
 import android.view.View;
 import android.view.Window;
 import android.widget.Button;
+import android.widget.ImageView;
 import android.widget.Toast;
 
 import org.tensorflow.lite.DataType;
@@ -76,7 +77,25 @@ public class ToolbarActivity extends Activity {
         }
     }
 
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data)
+    {
+        if (requestCode == REQUEST_IMAGE_CAPTURE && resultCode == Activity.RESULT_OK)
+        {
+            Bitmap photo = (Bitmap) data.getExtras().get("data");
+            ImageView imageView = findViewById(R.id.image_view);
+            //imageView.setVisibility(View.VISIBLE);
+            //imageView.setImageBitmap(photo);
 
+            final List<Classifier.Recognition> results =
+                    classifier.recognizeImage(photo, 0);
+            final Classifier.Recognition first = results.get(0);
+            Log.d("FINDME: ", "PHOTO CLASSIFIED AS " + first.getTitle());
+            Intent intent = new Intent(this, PokemonActivity.class);
+            intent.putExtra("pokemon", "list/" + first.getTitle().trim());
+            startActivity(intent);
+        }
+    }
 
     private void recreateClassifier(Model model, Device device, int numThreads) {
         if (classifier != null) {
@@ -96,31 +115,6 @@ public class ToolbarActivity extends Activity {
         } catch (IOException e) {
             LOGGER.e(e, "Failed to create classifier.");
         }
-
-        // Updates the input image size.
-        imageSizeX = classifier.getImageSizeX();
-        imageSizeY = classifier.getImageSizeY();
-        Log.d("FINDME: ", "" + imageSizeX + ", " + imageSizeY);
-        AssetManager assetManager = getAssets();
-        String filePath = "list/136_Flareon" + "/img.png";
-        //Bitmap image = null;
-        try {
-            InputStream is = assetManager.open(filePath);
-            image = BitmapFactory.decodeStream(is);
-
-        } catch (IOException e) {
-            Log.d("FINDME: " , e.getMessage());
-        }
-        final List<Classifier.Recognition> results =
-                classifier.recognizeImage(image, 0);
-        Classifier.Recognition first = results.get(0);
-        Classifier.Recognition second = results.get(1);
-        Classifier.Recognition third = results.get(2);
-
-        //Log.d("FINDME: " , String.format("RESULTS = %s : %f, %s : %f, %s : %f",
-        //        first.getTitle(),first.getConfidence(),
-         //       second.getTitle(), second.getConfidence(),
-         //       third.getTitle(), third.getConfidence()));
 
     }
 }

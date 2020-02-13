@@ -14,10 +14,24 @@
         android:scrollbars="vertical"
         android:background="#FF333333"
         android:theme="@android:style/Theme"
-        android:visibility="gone"
+        android:visibility="visible"
         />
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:id="@+id/image_view"/>
+        android:id="@+id/image_view"
+        android:visibility="gone"/>
+
+    <TextView
+        android:id="@+id/text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="@+id/image_view"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.464"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/image_view"
+        app:layout_constraintVertical_bias="0.9"
+        android:textColor="#FFFFFFFF"
+        android:visibility="gone"/>
 </androidx.constraintlayout.widget.ConstraintLayout>
