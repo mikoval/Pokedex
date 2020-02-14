@@ -20,6 +20,8 @@ public class PokemonWrapper {
     int primaryType;
     int secondaryType;
     Bitmap image;
+    String height;
+    String weight;
     public PokemonWrapper(String directory, Context context) {
         this.directory = directory;
         this.context = context;
@@ -55,6 +57,14 @@ public class PokemonWrapper {
                         }
                         if (arr[0].equals("type_secondary")) {
                             secondaryType = PokemonType.parseInt(arr[1]);
+                        }
+
+                        if (arr[0].equals("Height")) {
+                            height = arr[1];
+                        }
+
+                        if (arr[0].equals("Weight")) {
+                            weight = arr[1];
                         }
                     }
                 }

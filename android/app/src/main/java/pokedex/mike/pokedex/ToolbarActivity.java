@@ -59,16 +59,30 @@ public class ToolbarActivity extends Activity {
         setContentView(R.layout.activity_main);
         getWindow().setFeatureInt(Window.FEATURE_CUSTOM_TITLE,R.layout.title_bar);
 
-        Button button = (Button) findViewById(R.id.camera);
-        button.setOnClickListener(new View.OnClickListener() {
+        Button camera = (Button) findViewById(R.id.camera);
+        camera.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Toast.makeText(getApplicationContext(),"CAMERA",Toast.LENGTH_SHORT).show();
                 dispatchTakePictureIntent();
             }
         });
+
+        Button upload = (Button) findViewById(R.id.upload);
+        upload.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Toast.makeText(getApplicationContext(),"CAMERA",Toast.LENGTH_SHORT).show();
+                dispatchUploadPictureIntent();
+            }
+        });
+
+
+
     }
     static final int REQUEST_IMAGE_CAPTURE = 1;
+
+    static final int UPLOAD_IMAGE_CAPTURE = 2;
 
     private void dispatchTakePictureIntent() {
         Intent takePictureIntent = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);
@@ -77,24 +91,43 @@ public class ToolbarActivity extends Activity {
         }
     }
 
+
+    private void dispatchUploadPictureIntent() {
+        Intent intent = new Intent(Intent.ACTION_PICK,
+                MediaStore.Images.Media.INTERNAL_CONTENT_URI);
+        intent.setType("image/*");
+        intent.putExtra("crop", "true");
+        intent.putExtra("scale", true);
+        intent.putExtra("outputX", 256);
+        intent.putExtra("outputY", 256);
+        intent.putExtra("aspectX", 1);
+        intent.putExtra("aspectY", 1);
+        intent.putExtra("return-data", true);
+        startActivityForResult(intent, 1);
+    }
+
+
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data)
     {
+        Bitmap photo = null;
         if (requestCode == REQUEST_IMAGE_CAPTURE && resultCode == Activity.RESULT_OK)
         {
-            Bitmap photo = (Bitmap) data.getExtras().get("data");
-            ImageView imageView = findViewById(R.id.image_view);
-            //imageView.setVisibility(View.VISIBLE);
-            //imageView.setImageBitmap(photo);
+            photo = (Bitmap) data.getExtras().get("data");
 
-            final List<Classifier.Recognition> results =
-                    classifier.recognizeImage(photo, 0);
-            final Classifier.Recognition first = results.get(0);
-            Log.d("FINDME: ", "PHOTO CLASSIFIED AS " + first.getTitle());
-            Intent intent = new Intent(this, PokemonActivity.class);
-            intent.putExtra("pokemon", "list/" + first.getTitle().trim());
-            startActivity(intent);
+        } else if (requestCode == UPLOAD_IMAGE_CAPTURE && resultCode == Activity.RESULT_OK) {
+            photo =  data.getExtras().getParcelable("data");
+        } else {
+            return;
         }
+
+        final List<Classifier.Recognition> results =
+                classifier.recognizeImage(photo, 0);
+        final Classifier.Recognition first = results.get(0);
+        Log.d("FINDME: ", "PHOTO CLASSIFIED AS " + first.getTitle());
+        Intent intent = new Intent(this, PokemonActivity.class);
+        intent.putExtra("pokemon", "list/" + first.getTitle().trim());
+        startActivity(intent);
     }
 
     private void recreateClassifier(Model model, Device device, int numThreads) {
