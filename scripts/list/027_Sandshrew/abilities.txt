@@ -1,0 +1,6 @@
+Scratch (Normal) - N/A
+Sand-Attack (Normal) - Level 10
+Slash (Normal) - Level 17
+Poison Sting (Poison) - Level 24
+Swift (Normal) - Level 31
+Fury Swipes (Normal) - Level 38

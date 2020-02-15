@@ -1,0 +1,9 @@
+Acid (Poison) - N/A
+Supersonic (Normal) - N/A
+Wrap (Normal) - N/A
+Poison Sting (Poison) - N/A
+Water Gun (Water) - N/A
+Constrict (Normal) - N/A
+Barrier (Psychic) - Level 35
+Screech (Normal) - Level 43
+Hydro Pump (Water) - Level 50

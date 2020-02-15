@@ -1,0 +1,6 @@
+Water Gun (Water) - N/A
+Withdraw (Water) - N/A
+Horn Attack (Normal) - Level 34
+Leer (Normal) - Level 39
+Spike Cannon (Normal) - Level 46
+Hydro Pump (Water) - Level 53

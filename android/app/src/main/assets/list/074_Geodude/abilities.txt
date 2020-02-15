@@ -1,0 +1,7 @@
+Tackle (Normal) - N/A
+Defense Curl (Normal) - Level 11
+Rock Throw (Rock) - Level 16
+Self Destruct (Normal) - Level 21
+Harden (Normal) - Level 26
+Earthquake (Ground) - Level 31
+Explosion (Normal) - Level 36

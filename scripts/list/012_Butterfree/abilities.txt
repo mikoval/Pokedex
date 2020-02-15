@@ -1,0 +1,10 @@
+Tackle (Normal) - N/A
+String Shot (Bug) - N/A
+Harden (Normal) - N/A
+Confusion (Psychic) - Level 10
+Poison Powder (Poison) - Level 13
+Stun Spore (Grass) - Level 14
+Sleep Powder (Grass) - Level 15
+Supersonic (Normal) - Level 18
+Whirlwind (Normal) - Level 23
+Psybeam (Psychic) - Level 34

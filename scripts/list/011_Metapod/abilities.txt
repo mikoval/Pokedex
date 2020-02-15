@@ -1,0 +1,5 @@
+Tackle (Normal) - N/A
+String Shot (Bug) - N/A
+Harden (Normal) - N/A (If caught in the wild, it doesn't learn Tackle
+or String Shot. If obtained from evolving Caterpie,
+it won't learn Harden.)

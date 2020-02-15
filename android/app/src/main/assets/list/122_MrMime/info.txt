@@ -1,5 +1,5 @@
 number:122
-name:Mr.Mime
+name:MrMime
 type_primary:Psychic
 type_secondary:
 Height:4' 3"

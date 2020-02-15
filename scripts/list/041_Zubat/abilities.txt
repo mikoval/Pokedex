@@ -1,0 +1,6 @@
+Leech Life (Bug) - N/A
+Supersonic (Normal) - Level 10
+Bite (Normal) - Level 15
+Confuse Ray (Ghost) - Level 21
+Wing Attack (Flying) - Level 28
+Haze (Ice) - Level 36

@@ -1,0 +1,7 @@
+Splash (Water) - N/A
+Tackle (Normal) - Level N/A
+Bite (Normal) - Level 20
+Dragon Rage (Dragon) - Level 25
+Leer (Normal) - Level 32
+Hydro Pump (Water) - Level 41
+Hyper Beam (Normal) - Level 52

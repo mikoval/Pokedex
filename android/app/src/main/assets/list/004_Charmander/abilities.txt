@@ -1,0 +1,8 @@
+Scratch (Normal) - N/A
+Growl (Normal) - N/A
+Ember (Fire) - Level 9
+Leer (Normal) - Level 15
+Rage (Normal) - Level 22
+Slash (Normal) - Level 30
+Flamethrower (Fire) - Level 38
+Fire Spin (Fire) - Level 46

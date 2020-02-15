@@ -1,0 +1,8 @@
+Water Gun (Water) - N/A
+Growl (Normal) - N/A
+Sing (Normal) - Level 16
+Mist (Ice) - Level 20
+Body Slam (Normal) - Level 25
+Confuse Ray (Ghost) - Level 31
+Ice Beam (Ice) - Level 38
+Hydro Pump (Water) - Level 46

@@ -1,0 +1,7 @@
+Ember (Fire) - N/A
+Leer (Normal) - Level 36
+Confuse Ray (Ghost) - Level 39
+Fire Punch (Fire) - Level 43
+Smoke Screen (Normal) - Level 48
+Smog (Poison) - Level 52
+Flamethrower (Fire) - Level 55

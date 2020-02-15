@@ -55,7 +55,7 @@
                 android:layout_span="2"
                 android:textColor="#000"
                 android:layout_margin="0.5dp"
-                android:textSize="18dp" />
+                android:textSize="24dp" />
         </TableRow>
 
         <!-- first row of the table layout-->
@@ -78,7 +78,7 @@
 
                 android:gravity="center"
                 android:textColor="#000"
-                android:textSize="18dp" />
+                android:textSize="24dp" />
 
             <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
                 android:id="@+id/typeTableLayout"
@@ -102,7 +102,7 @@
                     android:gravity="center"
                     android:text="Type 1"
                     android:textColor="#000"
-                    android:textSize="18dp"
+                    android:textSize="24dp"
                   />
                 <TextView
 
@@ -114,7 +114,7 @@
                     android:gravity="center"
                     android:text="Type 2"
                     android:textColor="#000"
-                    android:textSize="18dp"
+                    android:textSize="24dp"
                    />
 
             </TableRow>
@@ -129,33 +129,56 @@
             android:layout_width="fill_parent"
             android:layout_height="wrap_content">
 
-            <!-- first element of the row-->
-            <TextView
+                <!-- first element of the row-->
+                <TextView
 
-                android:id="@+id/height"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:background="#b0b0b0"
-                android:layout_margin="0.5dp"
-                android:text="Text 1"
+                    android:id="@+id/height"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="#b0b0b0"
+                    android:layout_margin="0.5dp"
+                    android:text="Text 1"
 
-                android:gravity="center"
-                android:textColor="#000"
-                android:textSize="18dp" />
+                    android:gravity="center"
+                    android:textColor="#000"
+                    android:textSize="24dp" />
 
-            <TextView
+                <TextView
 
-                android:id="@+id/weight"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_margin="0.5dp"
-                android:background="#b0b0b0"
+                    android:id="@+id/weight"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="0.5dp"
+                    android:background="#b0b0b0"
 
-                android:gravity="center"
-                android:text="Text 2"
-                android:textColor="#000"
-                android:textSize="18dp" />
+                    android:gravity="center"
+                    android:text="Text 2"
+                    android:textColor="#000"
+                    android:textSize="24dp" />
+
         </TableRow>
+
+        <TableRow
+
+            android:id="@+id/moveTableRow"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            >
+        <pokedex.mike.pokedex.MovesTable
+            android:id="@+id/MovesTable"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:stretchColumns="*"
+            android:layout_span="2"
+            android:layout_margin="0.5dp"
+            />
+
+
+
+        </TableRow>
+
+
     </TableLayout>
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>

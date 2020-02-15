@@ -1,0 +1,9 @@
+Teleport (Psychic) - N/A
+Kinesis (Psychic) - N/A (you only get this technique if you catch a
+Kadabra in the wild)
+Confusion (Psychic) - Level 16
+Disable (Normal) - Level 20
+Psybeam (Psychic) - Level 27
+Recover (Normal) - Level 31
+Psychic (Psychic) - Level 38
+Reflect (Psychic) - Level 42

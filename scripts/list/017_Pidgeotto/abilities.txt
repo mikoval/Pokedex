@@ -1,0 +1,7 @@
+Gust (Normal) - N/A
+Sand-Attack (Normal) - N/A
+Quick Attack (Normal) - N/A
+Whirlwind (Normal) - Level 21
+Wing Attack (Flying) - Level 31
+Agility (Psychic) - Level 40
+Mirror Move (Flying) - Level 49

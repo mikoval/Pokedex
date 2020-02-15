@@ -1,5 +1,5 @@
 number:83
-name:Farfetch'd
+name:Farfetchd
 type_primary:Normal
 type_secondary:Flying
 Height:2' 7"

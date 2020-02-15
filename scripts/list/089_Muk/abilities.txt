@@ -1,0 +1,8 @@
+Pound (Normal) - N/A
+Disable (Normal) - N/A
+Poison Gas (Poison) - N/A
+Minimize (Normal) - N/A
+Sludge (Poison) - N/A
+Harden (Normal) - Level 45
+Screech (Normal) - Level 53
+Acid Armor (Poison) - Level 60

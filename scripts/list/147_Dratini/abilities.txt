@@ -1,0 +1,7 @@
+Wrap (Normal) - N/A
+Leer (Normal) - N/A
+Thunder Wave (Electric) - N/A
+Agility (Psychic) - Level 20
+Slam (Normal) - Level 30
+Dragon Rage (Dragon) - Level 40
+Hyper Beam (Normal) - Level 50

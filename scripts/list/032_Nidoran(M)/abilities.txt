@@ -1,0 +1,8 @@
+Leer (Normal) - N/A
+Tackle (Normal) - N/A
+Horn Attack (Normal) - Level 8
+Poison Sting (Poison) - Level 14
+Focus Energy (Normal) - Level 21
+Fury Attack (Normal) - Level 29
+Horn Drill (Normal) - Level 36
+Double Kick (Fighting) - Level 43

@@ -1,0 +1,7 @@
+Wrap (Normal) - N/A
+Leer (Normal) - N/A
+Poison Sting (Poison) - Level 10
+Bite (Normal) - Level 17
+Glare (Normal) - Level 24
+Screech (Normal) - Level 31
+Acid (Poison) - Level 38

@@ -1,0 +1,8 @@
+Pound (Normal) - N/A
+Hypnosis (Psychic) - N/A
+Disable (Normal) - Level 12
+Confusion (Psychic) - Level 17
+Head Butt (Normal) - Level 24
+Poison Gas (Poison) - Level 29
+Psychic (Psychic) - Level 32
+Meditate (Psychic) - Level 37

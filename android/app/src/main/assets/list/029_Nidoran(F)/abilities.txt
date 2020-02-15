@@ -1,0 +1,8 @@
+Growl (Normal) - N/A
+Tackle (Normal) - N/A
+Scratch (Normal) - Level 8
+Poison Sting (Poison) - Level 14
+Tail Whip (Normal) - Level 21
+Bite (Normal) - Level 29
+Fury Swipes (Normal) - Level 36
+Double Kick (Fighting) - Level 43

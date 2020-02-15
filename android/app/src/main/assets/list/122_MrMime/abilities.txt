@@ -1,0 +1,6 @@
+Barrier (Psychic) - N/A
+Confusion (Psychic) - Level 15
+Light Screen (Psychic) - Level 23
+Doubleslap (Normal) - Level 31
+Meditate (Psychic) - Level 39
+Substitute (Normal) - Level 47

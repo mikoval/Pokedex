@@ -1,0 +1,6 @@
+Wing Attack (Flying) - N/A
+Agility (Psychic) - N/A
+Supersonic (Normal) - Level 33
+Bite (Normal) - Level 38
+Take Down (Normal) - Level 45
+Hyper Beam (Normal) - Level 54

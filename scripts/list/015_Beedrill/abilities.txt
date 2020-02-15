@@ -1,0 +1,9 @@
+Poison Sting (Poison) - N/A
+String Shot (Bug) - N/A
+Harden (Normal) - N/A
+Fury Attack (Normal) - Level 12
+Focus Energy (Normal) - Level 16
+Twineedle (Bug) - Level 20
+Rage (Normal) - Level 25
+Pin Missile (Bug) - Level 30
+Agility (Psychic) - Level 35

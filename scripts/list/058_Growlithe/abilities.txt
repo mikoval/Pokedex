@@ -1,0 +1,7 @@
+Bite (Normal) - N/A
+Roar (Normal) - N/A
+Ember (Fire) - Level 18
+Leer (Normal) - Level 23
+Take Down (Normal) - Level 30
+Agility (Psychic) - Level 39
+Flamethrower (Fire) - Level 50

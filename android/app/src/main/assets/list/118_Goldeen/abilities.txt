@@ -1,0 +1,8 @@
+Peck (Flying) - N/A
+Tail Whip (Normal) - N/A
+Supersonic (Normal) - Level 19
+Horn Attack (Normal) - Level 24
+Fury Attack (Normal) - Level 30
+Waterfall (Water) - Level 37
+Horn Drill (Normal) - Level 45
+Agility (Psychic) - Level 54

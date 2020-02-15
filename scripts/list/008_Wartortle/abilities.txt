@@ -1,0 +1,8 @@
+Tackle (Normal) - N/A
+Tail Whip (Normal) - N/A
+Bubble (Water) - N/A
+Water Gun (Water) - N/A
+Bite (Normal) - Level 24
+Withdraw (Water) - Level 31
+Skull Bash (Normal) - Level 39
+Hydro Pump (Water) - Level 47

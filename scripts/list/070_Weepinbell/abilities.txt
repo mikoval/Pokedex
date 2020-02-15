@@ -1,0 +1,9 @@
+Vine Whip (Grass) - N/A
+Growth (Normal) - N/A
+Wrap (Normal) - N/A
+Poison Powder (Poison) - N/A
+Sleep Powder (Grass) - N/A
+Stun Spore (Grass) - Level 23
+Acid (Poison) - Level 29
+Razor Leaf (Grass) - Level 38
+Slam (Normal) - Level 49

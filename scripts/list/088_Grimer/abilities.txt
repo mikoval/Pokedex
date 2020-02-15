@@ -1,0 +1,8 @@
+Pound (Normal) - N/A
+Disable (Normal) - N/A
+Poison Gas (Poison) - Level 30
+Minimize (Normal) - Level 33
+Sludge (Poison) - Level 37
+Harden (Normal) - Level 42
+Screech (Normal) - Level 48
+Acid Armor (Poison) - Level 55

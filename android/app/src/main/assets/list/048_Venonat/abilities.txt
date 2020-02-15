@@ -1,0 +1,8 @@
+Tackle (Normal) - N/A
+Disable (Normal) - N/A
+Poison Powder (Poison) - Level 24
+Leech Life (Grass) - Level 27
+Stun Spore (Grass) - Level 30
+Psybeam (Psychic) - Level 35
+Sleep Powder (Grass) - Level 38
+Psychic (Psychic) - Level 43

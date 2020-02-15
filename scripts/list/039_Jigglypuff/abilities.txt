@@ -1,0 +1,8 @@
+Sing (Normal) - N/A
+Pound (Normal) - Level 9
+Disable (Normal) - Level 14
+Defense Curl (Normal) - Level 19
+Doubleslap (Normal) - Level 24
+Rest (Psychic) - Level 29
+Body Slam (Normal) - Level 34
+Double-Edge (Normal) - Level 39

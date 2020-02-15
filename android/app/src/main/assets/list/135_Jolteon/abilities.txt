@@ -1,0 +1,10 @@
+Tackle (Normal) - N/A
+Sand-Attack (Normal) - N/A
+Quick Attack (Normal) - Level 27
+Thundershock (Electric) - Level 31
+Tail Whip (Normal) - Level 37
+Thunder Wave (Electric) - Level 40
+Double Kick (Fighting) - Level 42
+Agility (Psychic) - Level 44
+Pin Missile (Bug) - Level 48
+Thunder (Electric) - Level 52

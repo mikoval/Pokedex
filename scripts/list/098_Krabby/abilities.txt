@@ -1,0 +1,7 @@
+Bubble (Water) - N/A
+Leer (Normal) - N/A
+Vicegrip (Normal) - Level 20
+Guillotine (Normal) - Level 25
+Stomp (Normal) - Level 30
+Crab Hammer (Water) - Level 35
+Harden (Normal) - Level 40

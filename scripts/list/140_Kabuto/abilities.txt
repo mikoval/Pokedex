@@ -1,0 +1,6 @@
+Scratch (Normal) - N/A
+Harden (Normal) - N/A
+Absorb (Grass) - Level 34
+Slash (Normal) - Level 39
+Leer (Normal) - Level 44
+Hydro Pump (Water) - Level 49

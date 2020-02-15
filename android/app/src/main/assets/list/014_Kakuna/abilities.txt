@@ -1,0 +1,5 @@
+Poison Sting (Poison) - N/A
+String Shot (Bug) - N/A
+Harden (Normal) - N/A (If caught in the wild, it doesn't learn Tackle
+or String Shot. If obtained from evolving Weedle, it
+won't learn Harden.)

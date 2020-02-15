@@ -1,0 +1,8 @@
+Barrage (Normal) - N/A
+Hypnosis (Psychic) - N/A
+Reflect (Psychic) - Level 25
+Leech Seed (Grass) - Level 28
+Stun Spore (Grass) - Level 32
+Poison Powder (Poison) - Level 37
+Solar Beam (Grass) - Level 42
+Sleep Powder (Grass) - Level 48

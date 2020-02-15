@@ -1,0 +1,7 @@
+Tackle (Normal) - N/A
+Smog (Poison) - N/A
+Sludge (Poison) - N/A
+Smoke Screen (Normal) - Level 39
+Self Destruct (Normal) - Level 43
+Haze (Ice) - Level 49
+Explosion (Normal) - Level 53

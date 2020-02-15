@@ -1,0 +1,7 @@
+Peck (Flying) - N/A
+Sand-Attack (Normal) - N/A
+Leer (Normal) - Level 7
+Fury Attack (Normal) - Level 15
+Swords Dance (Normal) - Level 23
+Agility (Psychic) - Level 31
+Slash (Normal) - Level 39

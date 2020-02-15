@@ -1,0 +1,7 @@
+Tackle (Normal) - N/A
+Screech (Normal) - N/A
+Bind (Normal) - Level 15
+Rock Throw (Rock) - Level 19
+Rage (Normal) - Level 25
+Slam (Normal) - Level 33
+Harden (Normal) - Level 43

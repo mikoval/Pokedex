@@ -7,14 +7,19 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 
 import org.w3c.dom.Text;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class PokemonActivity extends ToolbarActivity {
 
     PokemonWrapper pokemon;
+    MovesTable movesTable;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -49,5 +54,12 @@ public class PokemonActivity extends ToolbarActivity {
 
         TextView weight = findViewById(R.id.weight);
         weight.setText("Weight: " + pokemon.weight);
+
+        initializeMovesTable();
+    }
+
+    private void initializeMovesTable() {
+        movesTable = findViewById(R.id.MovesTable);
+        movesTable.setDirectory(pokemon.directory);
     }
 }

@@ -1,0 +1,7 @@
+Tackle (Normal) - N/A
+Sonicboom (Normal) - N/A
+Thundershock (Electric) - Level 25
+Supersonic (Normal) - Level 29
+Thunder Wave (Electric) - Level 35
+Swift (Normal) - Level 41
+Screech (Normal) - Level 47

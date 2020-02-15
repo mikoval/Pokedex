@@ -1,0 +1,6 @@
+Karate Chop (Normal) - N/A
+Low Kick (Fighting) - N/A
+Leer (Normal) - N/A
+Focus Energy (Normal) - Level 36
+Seismic Toss (Fighting) - Level 44
+Submission (Fighting) - Level 52

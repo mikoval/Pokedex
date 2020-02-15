@@ -1,0 +1,6 @@
+Scratch (Normal) - N/A
+Growl (Normal) - N/A
+Dig (Ground) - N/A
+Sand-Attack (Normal) - N/A
+Slash (Normal) - Level 35
+Earthquake (Ground) - Level 47

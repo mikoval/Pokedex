@@ -1,0 +1,7 @@
+Ember (Fire) - N/A
+Tail Whip (Normal) - Level 30
+Stomp (Normal) - Level 32
+Growl (Normal) - Level 35
+Fire Spin (Fire) - Level 39
+Take Down (Normal) - Level 43
+Agility (Psychic) - Level 48

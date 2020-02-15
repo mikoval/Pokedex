@@ -1,0 +1,7 @@
+Confusion (Psychic) - N/A
+Disable (Normal) - Level 18
+Head Butt (Normal) - Level 22
+Growl (Normal) - Level 27
+Water Gun (Water) - Level 33
+Amnesia (Psychic) - Level 40
+Psychic (Psychic) - Level 48

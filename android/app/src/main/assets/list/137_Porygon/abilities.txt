@@ -1,0 +1,7 @@
+Tackle (Normal) - N/A
+Sharpen (Normal) - N/A
+Conversion (Normal) - N/A
+Psybeam (Psychic) - Level 23
+Recover (Psychic) - Level 28
+Agility (Psychic) - Level 35
+Tri Attack (Normal) - Level 42

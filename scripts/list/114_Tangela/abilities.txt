@@ -1,0 +1,8 @@
+Constrict (Normal) - N/A
+Bind (Normal) - N/A
+Absorb (Grass) - Level 29
+Poison Powder (Poison) - Level 32
+Stun Spore (Grass) - Level 36
+Sleep Powder (Grass) - Level 39
+Slam (Normal) Level 45
+Growth (Normal) - Level 48

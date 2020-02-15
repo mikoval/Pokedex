@@ -1,0 +1,7 @@
+Comet Punch (Normal) - N/A
+Agility (Psychic) - N/A
+Fire Punch (Fire) - Level 33
+Ice Punch (Ice) - Level 38
+Thunder Punch (Electric) - Level 43
+Mega Punch (Normal) - Level 48
+Counter (Fighting) - Level 53
