@@ -7,6 +7,13 @@
     tools:context=".PokemonActivity"
     android:theme="@android:style/Theme">
 
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:fillViewport="false"
+        tools:ignore="MissingConstraints">
+
     <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
         android:id="@+id/simpleTableLayout"
         android:layout_width="match_parent"
@@ -180,5 +187,5 @@
 
     </TableLayout>
 
-
+    </ScrollView>
 </androidx.constraintlayout.widget.ConstraintLayout>
